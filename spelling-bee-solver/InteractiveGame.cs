@@ -2,6 +2,8 @@
 
 internal class InteractiveGame
 {
+    // TODO: prompt on how many letters and/or starting letter(s). Allow "!" for all
+
     public void PlayGame()
     {
         var finder = new WordFinder();

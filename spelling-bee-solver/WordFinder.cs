@@ -1,5 +1,4 @@
-﻿
-namespace spelling_bee_solver;
+﻿namespace spelling_bee_solver;
 
 internal class WordFinder
 {
