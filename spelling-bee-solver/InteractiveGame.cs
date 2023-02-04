@@ -17,9 +17,14 @@ internal class InteractiveGame
 
         var matchingWords = finder.FindWords(center, letters);
         matchingWords.Sort();
-        Console.WriteLine("Here are the matching words:");
-        foreach (var word in matchingWords)
-            Console.WriteLine(word);
+        Console.WriteLine($"Thank you. {matchingWords.Count} words have been found.");
+
+        while (true)
+        {
+            var wordLen = PromptWordLength(matchingWords);
+            var startingLetters = PromptStartingLetters();
+            OutputMatchingWords(matchingWords, wordLen, startingLetters);
+        }
     }
 
     private static char PromptCenterLetter()
@@ -65,5 +70,49 @@ internal class InteractiveGame
                 }
             }
         }
+    }
+
+    private static int? PromptWordLength(List<String> words)
+    {
+        var min = words.Min(x => x.Length);
+        var max = words.Max(x => x.Length);
+
+        while (true)
+        {
+            Console.Write("Which word length do you want to see? Leave blank for everything: ");
+            var entry = Console.ReadLine()?.Trim();
+            if (entry == null || entry.Length == 0)
+                return null;
+            if (!int.TryParse(entry, out int len))
+            {
+                Console.WriteLine("Please enter digits, or nothing at all.");
+                continue;
+            }
+            if (len < min || len > max)
+                Console.WriteLine($"No words of that length. Word lengths are between {min} and {max}.");
+            else
+                return len;
+        }
+    }
+
+    private static string? PromptStartingLetters()
+    {
+        while (true)
+        {
+            Console.Write("Which starting letter(s) do you want answers for. Leave blank for everything: ");
+            var entry = Console.ReadLine()?.Trim();
+            return entry;
+        }
+    }
+
+    private void OutputMatchingWords(
+        List<String> words, 
+        int? wordLen,
+        string? startingLetters)
+    {
+        var filtered = words.Where(w => wordLen == null || w.Length == wordLen)
+            .Where(w => startingLetters == null || w.StartsWith(startingLetters));
+        foreach (var word in filtered)
+            Console.WriteLine(word);
     }
 }
