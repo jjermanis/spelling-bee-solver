@@ -2,12 +2,11 @@
 
 internal class WordFinder
 {
-    // TODO add words containing E and R to sanity check
-
     private enum WordStatus
     {
         HasQ,
         HasS,
+        HasEandR,
         TooManyLetters,
         Valid
     }
@@ -63,6 +62,9 @@ internal class WordFinder
         if (word.Contains('s'))
             return WordStatus.HasS;
 
+        if (word.Contains('e') && word.Contains('r'))
+            return WordStatus.HasEandR;
+
         var distinct = new HashSet<char>();
         foreach (var c in word)
             distinct.Add(c);
@@ -70,13 +72,13 @@ internal class WordFinder
             return WordStatus.TooManyLetters;
 
         return WordStatus.Valid;
-
     }
 
     public void SanityCheck()
     {
         var qCount = 0;
         var sCount = 0;
+        var erCount = 0;
         var distinctLetterCount = 0;
         foreach (var word in _words)
         {
@@ -89,6 +91,9 @@ internal class WordFinder
                 case WordStatus.HasS:
                     sCount++;
                     break;
+                case WordStatus.HasEandR:
+                    erCount++;
+                    break;
                 case WordStatus.TooManyLetters:
                     distinctLetterCount++;
                     break;
@@ -100,6 +105,7 @@ internal class WordFinder
         }
         Console.WriteLine($"{qCount} words containing Q.");
         Console.WriteLine($"{sCount} words containing S.");
+        Console.WriteLine($"{erCount} words containing E and R.");
         Console.WriteLine($"{distinctLetterCount} words with more than 7 different letters.");
     }
 
