@@ -2,15 +2,14 @@
 
 internal class InteractiveGame
 {
-    // TODO: prompt on how many letters and/or starting letter(s). Allow "!" for all
+    // TODO: specific prompt for pangram
 
     public void PlayGame()
     {
         var finder = new WordFinder();
 
-        Console.WriteLine("Welcome to spelling-bee-solver. This program will help you");
-        Console.WriteLine("come up with answers for the dailing NY Times Spelling Bee");
-        Console.WriteLine("puzzle.");
+        Console.WriteLine("Welcome to spelling-bee-solver. This program will help you come");
+        Console.WriteLine("up with answers for the daily NY Times Spelling Bee puzzle.");
 
         var center = PromptCenterLetter();
         var letters = PromptLetters(center);
@@ -105,13 +104,16 @@ internal class InteractiveGame
         }
     }
 
-    private void OutputMatchingWords(
+    private static void OutputMatchingWords(
         List<String> words, 
         int? wordLen,
         string? startingLetters)
     {
         var filtered = words.Where(w => wordLen == null || w.Length == wordLen)
-            .Where(w => startingLetters == null || w.StartsWith(startingLetters));
+            .Where(w => startingLetters == null || w.StartsWith(startingLetters))
+            .ToList();
+        var wordFormat = filtered.Count == 1 ? "word" : "words";
+        Console.WriteLine($"{filtered.Count} {wordFormat} found.");
         foreach (var word in filtered)
             Console.WriteLine(word);
     }

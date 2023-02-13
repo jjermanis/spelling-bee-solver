@@ -2,6 +2,8 @@
 
 internal class WordFinder
 {
+    // TODO add tool to update dictionary based on known invalid words
+
     private enum WordStatus
     {
         HasQ,
