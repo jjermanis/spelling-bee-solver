@@ -2,25 +2,27 @@
 
 internal class WordFinder
 {
-    // TODO add tool to update dictionary based on known invalid words
-
     private enum WordStatus
     {
         HasQ,
         HasS,
         HasEandR,
         TooManyLetters,
+        KnownInvalid,
         Valid
     }
 
-    private const string WORDS_PATH = @"..\..\..\words.txt";
-    private const string VALID_WORDS_PATH = @"..\..\..\update.txt";
+    private const string VALID_WORDS_PATH = @"..\..\..\words.txt";
+    private const string UPDATE_WORDS_PATH = @"..\..\..\update.txt";
+    private const string INVALID_WORDS_PATH = @"..\..\..\invalid.txt";
 
-    private readonly IEnumerable<string> _words;
+    private readonly IEnumerable<string> _valid_words;
+    private readonly HashSet<string> _invalid_words;
 
     public WordFinder()
     {
-        _words = File.ReadLines(WORDS_PATH);
+        _valid_words = File.ReadLines(VALID_WORDS_PATH);
+        _invalid_words = new HashSet<string>(File.ReadLines(INVALID_WORDS_PATH));
     }
 
     public List<string> FindWords(char center, HashSet<char> letters)
@@ -28,12 +30,12 @@ internal class WordFinder
         var result = new List<string>();
         var allLetters = new HashSet<char>(letters);
         allLetters.Add(center);
-        foreach (var word in _words)
+        foreach (var word in _valid_words)
         {
             if (!word.Contains(center))
                 continue;
             var isMatch = true;
-            foreach(var letter in word)
+            foreach (var letter in word)
             {
                 if (!allLetters.Contains(letter))
                     isMatch = false;
@@ -46,17 +48,17 @@ internal class WordFinder
 
     public void CreateSaneWordsFile()
     {
-        File.WriteAllLines(VALID_WORDS_PATH, ValidWords());
+        File.WriteAllLines(UPDATE_WORDS_PATH, ValidWords());
     }
 
     private IEnumerable<string> ValidWords()
     {
-        foreach (var word in _words)
+        foreach (var word in _valid_words)
             if (GetWordStatus(word) == WordStatus.Valid)
                 yield return word;
     }
 
-    private static WordStatus GetWordStatus(string word)
+    private WordStatus GetWordStatus(string word)
     {
         if (word.Contains('q'))
             return WordStatus.HasQ;
@@ -73,6 +75,9 @@ internal class WordFinder
         if (distinct.Count > 7)
             return WordStatus.TooManyLetters;
 
+        if (_invalid_words.Contains(word))
+            return WordStatus.KnownInvalid;
+
         return WordStatus.Valid;
     }
 
@@ -82,7 +87,7 @@ internal class WordFinder
         var sCount = 0;
         var erCount = 0;
         var distinctLetterCount = 0;
-        foreach (var word in _words)
+        foreach (var word in _valid_words)
         {
             var status = GetWordStatus(word);
             switch (status)
@@ -113,12 +118,21 @@ internal class WordFinder
 
     public void CommonWords()
     {
-        foreach (var word in _words)
+        foreach (var word in _valid_words)
         {
             var distinct = new HashSet<char>();
             foreach (var c in word)
                 distinct.Add(c);
             if (distinct.Count <= 3)
+                Console.WriteLine(word);
+        }
+    }
+
+    public void InvalidWordsCheck()
+    {
+        foreach (var word in _valid_words)
+        {
+            if (_invalid_words.Contains(word))
                 Console.WriteLine(word);
         }
     }
