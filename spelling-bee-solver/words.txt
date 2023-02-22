@@ -126,6 +126,7 @@ blah
 blat
 bled
 blew
+blin
 blip
 blob
 bloc
@@ -385,7 +386,6 @@ dock
 dodo
 doff
 doge
-dogy
 dojo
 dole
 doll
@@ -843,7 +843,6 @@ kind
 kine
 king
 kink
-kirk
 kite
 kith
 kiwi
@@ -1064,7 +1063,6 @@ molt
 moly
 monk
 mono
-mony
 mood
 moon
 moor
@@ -1090,6 +1088,7 @@ myna
 myth
 naan
 nada
+nana
 naif
 nail
 name
@@ -1135,6 +1134,7 @@ oath
 obey
 obit
 oboe
+odea
 odor
 ogee
 ogle
@@ -1202,7 +1202,6 @@ pawl
 pawn
 peak
 peal
-pean
 peat
 peck
 peed
@@ -1233,7 +1232,6 @@ pint
 piny
 pion
 pipe
-pipy
 pita
 pith
 pity
@@ -1256,6 +1254,7 @@ plum
 pock
 poem
 poet
+pogo
 poke
 poky
 pole
@@ -1424,7 +1423,6 @@ time
 tine
 tint
 tiny
-tipi
 toad
 toed
 toff
@@ -1433,7 +1431,6 @@ toga
 toil
 toke
 told
-tole
 toll
 tomb
 tome
@@ -1493,8 +1490,6 @@ unco
 undo
 undy
 unit
-univ
-unix
 unto
 unum
 upon
@@ -1826,7 +1821,6 @@ annex
 annoy
 annul
 anode
-anomy
 anted
 antic
 antra
@@ -1983,24 +1977,17 @@ belga
 belie
 belle
 belly
-belon
 below
 bemix
 bench
 bendy
-benne
-benni
-benny
 bento
 betel
-beton
 betta
 bevel
 bewig
 bezel
 bezil
-bhang
-biali
 bialy
 bible
 bicep
@@ -2020,9 +2007,7 @@ bilby
 bilge
 bilgy
 billy
-bimah
 bimbo
-binal
 bindi
 binge
 bingo
@@ -2037,7 +2022,6 @@ birth
 bitty
 black
 blade
-blain
 blame
 bland
 blank
@@ -2049,7 +2033,6 @@ bleat
 bleed
 bleep
 blend
-blent
 blimp
 blimy
 blind
@@ -2092,7 +2075,6 @@ bombe
 boned
 boney
 bongo
-bonne
 bonny
 bonze
 booby
@@ -2111,7 +2093,6 @@ boron
 borty
 bortz
 botch
-botel
 bothy
 bough
 boule
@@ -2515,7 +2496,6 @@ cubic
 cubit
 cuddy
 cuing
-culch
 culet
 culex
 cully
@@ -2533,7 +2513,6 @@ curio
 curly
 curry
 curvy
-cutch
 cutey
 cutie
 cutin
@@ -2662,7 +2641,6 @@ dobro
 dodge
 dodgy
 doeth
-dogey
 doggo
 doggy
 dogie
@@ -2756,7 +2734,6 @@ durag
 dural
 duroc
 durum
-dutch
 duvet
 dwarf
 dweeb
@@ -2769,10 +2746,8 @@ eagle
 eaten
 eaved
 ebbed
-ebbet
 ebony
 ebook
-eched
 eclat
 edema
 edged
@@ -3321,7 +3296,6 @@ helot
 hence
 henge
 henna
-heuch
 heugh
 hewed
 hexad
@@ -3589,8 +3563,6 @@ kinky
 kited
 kithe
 kitty
-klick
-klong
 kloof
 kluge
 klutz
@@ -3658,7 +3630,6 @@ lanai
 lance
 lanky
 lapel
-lapin
 larch
 lardy
 largo
@@ -3691,7 +3662,6 @@ leant
 leapt
 leave
 leavy
-leben
 ledge
 ledgy
 leech
@@ -3705,7 +3675,6 @@ lemma
 lemon
 lento
 lepta
-letch
 letup
 levee
 level
@@ -3775,7 +3744,6 @@ loped
 loppy
 lorry
 lotic
-lotte
 lotto
 lough
 louie
@@ -3873,7 +3841,6 @@ mavin
 mawed
 maxed
 maxim
-mayan
 maybe
 mayed
 mayor
@@ -3951,7 +3918,6 @@ monad
 monde
 mondo
 money
-mongo
 monie
 monte
 month
@@ -4031,14 +3997,10 @@ nairu
 naive
 naked
 nakfa
-naled
 named
 nanny
-nappa
-nappe
 nappy
 narco
-naric
 narky
 natal
 natch
@@ -4060,7 +4022,6 @@ newly
 ngwee
 niche
 nicol
-nidal
 nided
 niece
 nifty
@@ -4074,7 +4035,6 @@ nippy
 nitid
 niton
 nitro
-nival
 nixed
 nixie
 nizam
@@ -4194,12 +4154,9 @@ pacey
 pacha
 paddy
 padle
-padri
 paean
-paeon
 pagan
 paged
-pagod
 paint
 paled
 palet
@@ -4210,10 +4167,7 @@ panda
 pandy
 paned
 panel
-panga
 panic
-panne
-panto
 panty
 papal
 papaw
@@ -4255,13 +4209,10 @@ peeve
 pekan
 pekin
 pekoe
-pelon
 penal
 pence
 pengo
-penna
 penne
-penni
 penny
 peony
 peppy
@@ -4303,7 +4254,6 @@ piney
 pingo
 pinko
 pinky
-pinna
 pinny
 pinon
 pinot
@@ -4339,7 +4289,6 @@ plead
 pleat
 plebe
 plena
-pleon
 plica
 plied
 plink
@@ -4354,11 +4303,7 @@ plunk
 poach
 poboy
 pocky
-podgy
 podia
-pogey
-poilu
-poind
 point
 poked
 pokey
@@ -4367,11 +4312,8 @@ poled
 polio
 polka
 polyp
-pommy
 pooch
-pooed
 poofy
-poori
 poppa
 poppy
 porch
@@ -4394,9 +4336,7 @@ prank
 prawn
 prick
 pricy
-prill
 prima
-primi
 primo
 primp
 prink
@@ -4427,7 +4367,6 @@ punji
 punka
 punky
 punny
-punto
 punty
 pupae
 pupal
@@ -4436,15 +4375,11 @@ puppy
 purda
 purin
 purty
-puton
 putti
-putto
 putty
 pygmy
 pylon
-pyoid
 pyran
-pyric
 pyxie
 rabbi
 rabic
@@ -4783,7 +4718,6 @@ typic
 uhlan
 ulama
 ulema
-ulnad
 ulnae
 ulnar
 ulpan
@@ -4859,7 +4793,6 @@ valor
 value
 valve
 vampy
-vanda
 vaned
 vapid
 vapor
@@ -4892,7 +4825,6 @@ vigil
 vigor
 villa
 vimen
-vinal
 vinca
 vined
 vinyl
@@ -5099,10 +5031,8 @@ yente
 yeuky
 yield
 yince
-yirth
 yodel
 yodle
-yogee
 yoked
 yokel
 yolky
@@ -5329,7 +5259,6 @@ amidol
 aminic
 ammine
 ammino
-ammono
 amnion
 amoeba
 amoral
@@ -5367,7 +5296,6 @@ anodal
 anoint
 anomic
 anomie
-anonym
 anopia
 anorak
 anoxia
@@ -5380,6 +5308,7 @@ anting
 antral
 antrum
 anuria
+anyhoo
 anyhow
 anyone
 anyway
@@ -5393,7 +5322,6 @@ apical
 apiece
 aplite
 aplomb
-apneal
 apneic
 apnoea
 apodal
@@ -5479,7 +5407,6 @@ avenge
 avenue
 aviary
 aviate
-avidin
 avidly
 avocet
 avouch
@@ -5556,7 +5483,6 @@ bandit
 bandog
 banged
 bangle
-banian
 baning
 banjax
 banked
@@ -5679,7 +5605,6 @@ benday
 bended
 bendee
 benign
-bennet
 benumb
 benzal
 benzin
@@ -5800,7 +5725,6 @@ boggle
 bohunk
 boiled
 boldly
-bolete
 boleti
 bollix
 bollox
@@ -6190,7 +6114,6 @@ chunky
 chuppa
 church
 churro
-chuted
 chymic
 cicada
 cicale
@@ -6455,7 +6378,6 @@ culled
 cullet
 culmed
 culpae
-cultch
 cultic
 cumbia
 cummin
@@ -6496,7 +6418,6 @@ dacoit
 dactyl
 daddle
 dadgum
-dadoed
 daedal
 daemon
 daffed
@@ -6846,7 +6767,6 @@ dumped
 dunged
 dunite
 dunked
-dunlin
 dunned
 dunted
 duolog
@@ -7375,7 +7295,6 @@ gamily
 gamine
 gaming
 gammed
-gammon
 ganged
 gangly
 gangue
@@ -7475,7 +7394,6 @@ gleyed
 glibly
 glided
 glimed
-glinty
 glioma
 glitch
 glitzy
@@ -7503,7 +7421,6 @@ gnarly
 gnatty
 gnawed
 gnomic
-gnomon
 goaded
 goaled
 goalie
@@ -7515,7 +7432,6 @@ goblet
 goblin
 gobony
 goddam
-godded
 godown
 godwit
 goggle
@@ -7708,7 +7624,6 @@ heaved
 heaven
 heckle
 hectic
-heddle
 hedged
 heeded
 heehaw
@@ -7720,7 +7635,6 @@ heiled
 heinie
 heliac
 helium
-helled
 helmed
 helmet
 helped
@@ -7873,7 +7787,6 @@ hunted
 huppah
 hurrah
 hurray
-hutted
 hutzpa
 huzzah
 hyalin
@@ -7896,7 +7809,6 @@ icecap
 iceman
 icemen
 icicle
-ickily
 iconic
 ideate
 idiocy
@@ -8302,7 +8214,6 @@ lamped
 lanate
 lanced
 lancet
-landau
 landed
 lanely
 langue
@@ -8361,7 +8272,6 @@ leanly
 leaped
 leaved
 leaven
-leched
 lechwe
 lectin
 leeway
@@ -8380,11 +8290,9 @@ lekked
 lemony
 length
 lenity
-lenten
 lentic
 lentil
 leptin
-lepton
 lethal
 letted
 leucin
@@ -8505,7 +8413,6 @@ loudly
 lounge
 loungy
 louped
-loupen
 louted
 lovage
 lovely
@@ -8918,7 +8825,6 @@ nankin
 napalm
 napkin
 napped
-nappie
 narial
 narrow
 narwal
@@ -8928,7 +8834,6 @@ native
 natron
 naught
 nautch
-navaid
 nazify
 neaten
 neatly
@@ -8982,7 +8887,6 @@ nitrid
 nitril
 nitwit
 nixing
-nobble
 nobody
 nocent
 nocked
@@ -8999,7 +8903,6 @@ noncom
 nonego
 nonfan
 nonfat
-nonman
 nonmen
 nonpar
 nontax
@@ -9054,7 +8957,6 @@ nympha
 nympho
 oaring
 obelia
-obento
 obeyed
 object
 oblate
@@ -9083,7 +8985,6 @@ offend
 office
 offing
 offkey
-ogdoad
 ogival
 ogling
 ohmage
@@ -9241,7 +9142,6 @@ panted
 pantie
 pantry
 papacy
-papain
 papaya
 papula
 papule
@@ -9330,13 +9230,10 @@ penang
 pencel
 pencil
 pended
-penial
 penile
 penman
 penmen
-pennae
 penned
-pennia
 pentad
 pentyl
 penult
@@ -9348,7 +9245,6 @@ peptid
 petite
 petnap
 petted
-pettle
 peyote
 peyotl
 phalli
@@ -9391,7 +9287,6 @@ picket
 pickle
 pickup
 picnic
-picric
 piddle
 piddly
 pidgin
@@ -9420,7 +9315,6 @@ pimple
 pimply
 pinang
 pinata
-pineal
 pineta
 pinged
 pining
@@ -9431,8 +9325,6 @@ pinken
 pinkey
 pinkie
 pinkly
-pinnae
-pinnal
 pinned
 pinole
 pintle
@@ -9498,7 +9390,6 @@ plunge
 plunky
 plural
 plutei
-pluton
 plying
 pneuma
 poachy
@@ -9508,6 +9399,7 @@ podite
 podium
 podzol
 poetic
+pogoed
 pogrom
 pointe
 pointy
@@ -9521,7 +9413,6 @@ poling
 polite
 polity
 polled
-pollee
 pollen
 pollex
 polyol
@@ -9549,7 +9440,6 @@ poplar
 poplin
 popped
 poppet
-popple
 poring
 portal
 portly
@@ -9562,7 +9452,6 @@ potion
 potman
 potpie
 potted
-pottle
 pouchy
 poufed
 pouffe
@@ -9574,7 +9463,6 @@ poxing
 pozole
 prajna
 priapi
-pricky
 primal
 primly
 priory
@@ -9624,7 +9512,6 @@ punkey
 punkie
 punkin
 punned
-punnet
 punted
 pupate
 puppet
@@ -9639,7 +9526,6 @@ putoff
 putout
 putrid
 putted
-puttee
 puttie
 putzed
 puzzle
@@ -9864,7 +9750,6 @@ teapoy
 teated
 teazel
 teazle
-teched
 techie
 techno
 tectal
@@ -9996,7 +9881,6 @@ toneme
 tonged
 tongue
 toning
-tonlet
 tooled
 toonie
 tooted
@@ -10121,7 +10005,6 @@ twitch
 tycoon
 tymbal
 tympan
-tyning
 typhon
 typify
 typing
@@ -10220,7 +10103,6 @@ unmown
 unopen
 unpack
 unpaid
-unpent
 unpick
 unpile
 unplug
@@ -10719,7 +10601,6 @@ abating
 abbotcy
 abdomen
 abduced
-abelian
 abettal
 abetted
 abeyant
@@ -10862,7 +10743,6 @@ akvavit
 alameda
 alamode
 alation
-albinal
 albinic
 albitic
 albizia
@@ -11043,7 +10923,6 @@ anviled
 anxiety
 anybody
 anytime
-apagoge
 apanage
 apatite
 apelike
@@ -11202,7 +11081,6 @@ balling
 balloon
 ballute
 balmily
-balneal
 baloney
 bambini
 bambino
@@ -11574,7 +11452,6 @@ borough
 botanic
 botched
 bothria
-botonee
 bottled
 botulin
 bouchee
@@ -12891,7 +12768,6 @@ eatable
 ebonite
 ebonize
 ecbolic
-echelle
 echelon
 echidna
 echoing
@@ -12926,7 +12802,6 @@ eidolon
 eightvo
 ejected
 ekpwele
-elapine
 elating
 elation
 elbowed
@@ -13008,7 +12883,6 @@ ennoble
 ennuyee
 enology
 enounce
-enplane
 entente
 enticed
 entitle
@@ -13642,7 +13516,6 @@ gipping
 girding
 girning
 girting
-gitting
 gizzard
 glaceed
 glacial
@@ -14136,7 +14009,6 @@ hunting
 hurling
 hurtful
 hurting
-hutched
 hutlike
 hutment
 hutting
@@ -14240,7 +14112,6 @@ indrawn
 induced
 induing
 indulge
-indulin
 indwell
 indwelt
 inedita
@@ -14489,7 +14360,6 @@ kickoff
 kidding
 kidlike
 killdee
-killick
 killing
 killjoy
 killock
@@ -14589,7 +14459,6 @@ lairdly
 lairing
 laithly
 lakebed
-lalland
 lalling
 lambada
 lambent
@@ -14680,7 +14549,6 @@ lenited
 lentigo
 lentoid
 leonine
-letched
 letdown
 lethean
 letting
@@ -14733,7 +14601,6 @@ limited
 limning
 limping
 limpkin
-linable
 lindane
 lineage
 linecut
@@ -14749,7 +14616,6 @@ linking
 linkman
 linkmen
 linocut
-linting
 linuron
 lionize
 lipidic
@@ -15176,6 +15042,7 @@ monodic
 monoecy
 monofil
 monolog
+mononym
 monopod
 montage
 montane
@@ -15411,7 +15278,6 @@ nonpaid
 nonpeak
 nonplay
 nonpoor
-nonuple
 nonwage
 nonwool
 nonword
@@ -15640,12 +15506,10 @@ outpity
 outplan
 outplay
 outplod
-outplot
 outpoll
 outport
 outpour
 outpray
-outpull
 outrang
 outrank
 outring
@@ -15773,7 +15637,6 @@ panning
 panocha
 panoche
 panoply
-panpipe
 pantile
 panting
 pantoum
@@ -15852,14 +15715,12 @@ pecking
 pectate
 pectize
 peculia
-pedagog
 pedaled
 peddled
 pedicab
 pedicel
 pedicle
 pedocal
-peebeen
 peeking
 peeling
 peening
@@ -16150,7 +16011,6 @@ pooling
 pooping
 popcorn
 popedom
-popeyed
 popping
 poppled
 popular
@@ -16191,7 +16051,6 @@ practic
 prating
 praying
 priapic
-pricily
 pricing
 prickly
 priding
@@ -16586,7 +16445,6 @@ tenuity
 tepidly
 tetanal
 tetanic
-tetched
 tetotum
 teughly
 textile
@@ -16674,7 +16532,6 @@ tingled
 tinhorn
 tinkled
 tinlike
-tinnily
 tinting
 tintype
 tinwork
@@ -17858,7 +17715,6 @@ ampullar
 amputate
 amygdala
 amygdale
-anabaena
 anabatic
 anabolic
 anaconda
@@ -18153,7 +18009,6 @@ bankbook
 bankcard
 banknote
 bankroll
-bannable
 bantling
 barbaric
 barbican
@@ -18281,7 +18136,6 @@ bicyclic
 biddable
 biddably
 bielding
-biennale
 biennial
 biennium
 bifacial
@@ -18450,7 +18304,6 @@ bootlace
 bootlick
 bornitic
 botanica
-botonnee
 botryoid
 bottling
 bottomed
@@ -19210,7 +19063,6 @@ cyanotic
 cyclamen
 cycleway
 cyclical
-cyclicly
 cyclitol
 cyclized
 cyclonic
@@ -19452,7 +19304,6 @@ diluting
 dilution
 dilutive
 diluvial
-diluvian
 diluvion
 diluvium
 dimmable
@@ -20612,7 +20463,6 @@ hirpling
 hitching
 hittable
 hobbling
-hogmanay
 hogtying
 hoicking
 hoidened
@@ -20646,7 +20496,6 @@ hominize
 hominoid
 homogamy
 homogeny
-homogony
 homology
 homonymy
 honchoed
@@ -21190,7 +21039,6 @@ lichenin
 lichting
 liegeman
 liegemen
-lienable
 lifelike
 lifeline
 lifelong
@@ -21219,7 +21067,6 @@ limonite
 limpidly
 limuloid
 linchpin
-lineable
 lineally
 lineated
 linelike
@@ -21600,7 +21447,6 @@ monogamy
 monogeny
 monoglot
 monogram
-monogyny
 monohull
 monokine
 monolith
@@ -21830,7 +21676,6 @@ nonmodal
 nonmoney
 nonmoral
 nonnaval
-nonnoble
 nonohmic
 nonpagan
 nonpapal
@@ -22784,6 +22629,7 @@ tenoning
 tenotomy
 tentacle
 tentlike
+tentpole
 teocalli
 tepefied
 tepidity
@@ -23238,7 +23084,6 @@ unpaying
 unpeeled
 unpegged
 unpenned
-unpeople
 unpiling
 unpinned
 unpitied
@@ -23804,7 +23649,6 @@ algarroba
 algarrobo
 algicidal
 alicyclic
-alienable
 alienated
 alighting
 alimental
@@ -24941,7 +24785,6 @@ elegiacal
 elegizing
 elemental
 elenchtic
-eleoptene
 eliciting
 eliminate
 eloigning
@@ -25603,7 +25446,6 @@ intending
 intention
 intifadah
 intimated
-intitling
 intituled
 intombing
 intonated
@@ -25750,7 +25592,6 @@ lemmatize
 lemonlike
 leniently
 lenticule
-leptotene
 lethality
 leucocyte
 leukaemia
@@ -25772,7 +25613,6 @@ lightbulb
 lightning
 lignified
 lilangeni
-liltingly
 limelight
 limitable
 limitedly
@@ -26259,7 +26099,6 @@ outjuggle
 outjutted
 outlining
 outoffice
-outpeople
 outpitied
 outpolled
 outpulled
@@ -26360,8 +26199,6 @@ penancing
 penciling
 pencilled
 pendently
-peneplain
-peneplane
 penitence
 pennoncel
 pentangle
@@ -28257,7 +28094,6 @@ tiemannite
 tightening
 timocratic
 tincturing
-tinglingly
 titillated
 titivating
 titivation
@@ -29116,13 +28952,11 @@ nonconfidence
 nonconnection
 noncontingent
 nonengagement
-nongonococcal
 nonintoxicant
 nonirritating
 nonmanagement
 outintriguing
 proportioning
-ratiocination
 titillatingly
 ultracritical
 unintelligent

@@ -2,6 +2,8 @@
 
 internal class WordFinder
 {
+    // TODO: use invalid words as a filter on the valid words
+
     private enum WordStatus
     {
         HasQ,
