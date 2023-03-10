@@ -280,7 +280,6 @@ coir
 coke
 cola
 cold
-coll
 colt
 coma
 comb
@@ -418,7 +417,6 @@ drub
 drug
 drum
 dual
-duce
 duck
 duct
 dude
@@ -1301,6 +1299,7 @@ pupa
 purl
 purr
 putt
+quit
 rack
 racy
 raft
@@ -1478,7 +1477,6 @@ tzar
 ugly
 ulna
 ulva
-unco
 undo
 undy
 unit
@@ -1656,7 +1654,6 @@ abaft
 abate
 abbey
 abbot
-abeam
 abhor
 abide
 abled
@@ -1970,7 +1967,6 @@ bench
 bendy
 bento
 betel
-betta
 bevel
 bewig
 bezel
@@ -2234,7 +2230,6 @@ ceili
 celeb
 celli
 cello
-centu
 chafe
 chaff
 chain
@@ -2368,9 +2363,7 @@ cobra
 cocci
 cocky
 cocoa
-codec
 coded
-coden
 codex
 codon
 cogon
@@ -2419,10 +2412,8 @@ corky
 cornu
 corny
 cotan
-coted
 cotta
 couch
-coude
 cough
 could
 count
@@ -2648,7 +2639,6 @@ dotal
 doted
 dotty
 doubt
-douce
 dough
 doula
 douma
@@ -2731,7 +2721,6 @@ edict
 edify
 edile
 educe
-educt
 egged
 eight
 eikon
@@ -2801,9 +2790,6 @@ faced
 facet
 faddy
 faded
-fadge
-faena
-fagin
 faint
 fairy
 faith
@@ -2812,9 +2798,7 @@ fakey
 fakir
 famed
 fancy
-fanga
 fanny
-fanon
 fanum
 farad
 farci
@@ -2868,9 +2852,7 @@ filar
 filch
 filed
 filet
-fillo
 filly
-filmi
 filmy
 filth
 filum
@@ -3478,11 +3460,6 @@ jutty
 kabar
 kabob
 kafir
-kaiak
-kalam
-kalif
-kalpa
-kamik
 kanji
 kanzu
 kapok
@@ -4684,7 +4661,6 @@ uncap
 uncle
 uncoy
 uncut
-undee
 undid
 undue
 unfed
@@ -4698,7 +4674,6 @@ unite
 unity
 unjam
 unlay
-unled
 unlet
 unlit
 unman
@@ -5143,7 +5118,6 @@ aldrin
 alevin
 alexia
 alexin
-alfaki
 algoid
 alight
 alined
@@ -5168,8 +5142,6 @@ alnico
 alodia
 alpaca
 alpine
-aludel
-alulae
 alumin
 alumna
 alumni
@@ -5183,7 +5155,6 @@ ambari
 ambary
 ambled
 amebae
-ameban
 amebic
 amidic
 amidin
@@ -5419,7 +5390,6 @@ banjax
 banked
 bankit
 banned
-bannet
 bantam
 banyan
 banzai
@@ -5440,8 +5410,6 @@ batboy
 bateau
 bathed
 bating
-batman
-batmen
 batted
 batten
 battik
@@ -5525,12 +5493,9 @@ bellow
 belong
 belted
 beluga
-bemata
-bemean
 bemixt
 bemoan
 bemock
-bename
 benday
 bended
 bendee
@@ -6117,7 +6082,6 @@ cocked
 cockle
 cockup
 cocoon
-codded
 coddle
 codeia
 codify
@@ -6190,7 +6154,6 @@ contra
 convex
 convey
 convoy
-cooeed
 cooing
 cooked
 cookey
@@ -6493,7 +6456,6 @@ detain
 detect
 detent
 detick
-deuced
 devein
 device
 devoid
@@ -6672,13 +6634,10 @@ duckie
 ductal
 ducted
 duddie
-dudeen
 duding
 dueled
 duelli
 duello
-duende
-duenna
 dueted
 duffel
 duffle
@@ -6972,7 +6931,6 @@ filled
 fillet
 fillip
 filmed
-filmic
 filthy
 fimble
 finale
@@ -7035,9 +6993,7 @@ flirty
 flitch
 flited
 floaty
-flocci
 flocky
-flooey
 flooie
 floozy
 floppy
@@ -7107,10 +7063,8 @@ forint
 formal
 format
 formic
-formol
 formyl
 fornix
-forrit
 forwhy
 fought
 fouled
@@ -7982,7 +7936,6 @@ kalpac
 kalpak
 kamala
 kanaka
-kanban
 kantar
 kaolin
 kaonic
@@ -8853,7 +8806,6 @@ nudnik
 nugget
 nuking
 nullah
-nulled
 numbat
 numbed
 numbly
@@ -9602,7 +9554,6 @@ taluka
 tamale
 tamari
 tambac
-tambak
 tambur
 tamein
 tamely
@@ -9949,7 +9900,6 @@ uncork
 uncuff
 uncurb
 uncurl
-uncute
 undead
 undine
 undock
@@ -9989,9 +9939,7 @@ unkink
 unknit
 unknot
 unlace
-unlade
 unlaid
-unlead
 unlike
 unlink
 unload
@@ -10712,7 +10660,6 @@ ambling
 amboina
 amboyna
 ambroid
-amebean
 ameboid
 amended
 amenity
@@ -12045,7 +11992,6 @@ condemn
 condign
 condole
 condone
-conduce
 conduct
 conduit
 condyle
@@ -12182,11 +12128,8 @@ craving
 crawdad
 crazily
 crazing
-crimini
 criminy
 crinkly
-criollo
-crittur
 crouton
 crowbar
 crowing
@@ -12618,7 +12561,6 @@ ducting
 ductule
 dudgeon
 dueling
-duelled
 dueting
 duetted
 dukedom
@@ -12774,7 +12716,6 @@ enliven
 ennoble
 ennuyee
 enology
-enounce
 entente
 enticed
 entitle
@@ -12916,10 +12857,8 @@ fadedly
 fadeout
 fadging
 fadlike
-fagging
 faggoty
 fagoted
-faience
 failing
 fainted
 faintly
@@ -13036,7 +12975,6 @@ finback
 finding
 finfoot
 finicky
-finikin
 finking
 finlike
 finmark
@@ -13282,7 +13220,6 @@ gabling
 gadding
 gadgety
 gadwall
-gaffing
 gagging
 gaggled
 gahnite
@@ -14845,7 +14782,6 @@ milchig
 mildewy
 milding
 mileage
-milfoil
 miliary
 milieux
 militia
@@ -15045,7 +14981,6 @@ myrrhic
 nabbing
 nadiral
 naevoid
-naffing
 nagging
 nailing
 naively
@@ -16655,7 +16590,6 @@ umbonal
 umbonic
 umpteen
 unacted
-unadded
 unadept
 unagile
 unaging
@@ -16693,7 +16627,6 @@ unclean
 uncleft
 uncloak
 uncloud
-uncoded
 uncomic
 uncouth
 uncrazy
@@ -16706,7 +16639,6 @@ undrunk
 undular
 undying
 uneaten
-unended
 unfaded
 unfaith
 unfaked
@@ -16748,7 +16680,6 @@ unjoint
 unkempt
 unknown
 unlaced
-unladed
 unladen
 unlatch
 unlevel
@@ -17838,7 +17769,6 @@ bagpiped
 baguette
 baidarka
 bakelite
-bakemeat
 balanced
 baldhead
 baldpate
@@ -18716,7 +18646,6 @@ cokehead
 cokelike
 coldcock
 colicine
-coliform
 collaged
 collagen
 collated
@@ -18773,7 +18702,6 @@ conclave
 conclude
 condoled
 condoned
-conduced
 conepate
 confetti
 confetto
@@ -18794,7 +18722,6 @@ conjunto
 conjuror
 connived
 connoted
-conodont
 conoidal
 contagia
 contempt
@@ -19294,7 +19221,6 @@ dubonnet
 duckbill
 duckwalk
 duckweed
-duecento
 duelling
 duetting
 dulcetly
@@ -19305,7 +19231,6 @@ dumfound
 dummkopf
 dummying
 duncical
-duneland
 dunelike
 dunghill
 duodenal
@@ -19448,10 +19373,8 @@ enneadic
 enneagon
 ennobled
 enophile
-enounced
 enplaned
 entailed
-entameba
 entangle
 enthetic
 enticing
@@ -19675,7 +19598,6 @@ fileting
 filially
 filiated
 filicide
-filiform
 filleted
 filliped
 filmable
@@ -19689,7 +19611,6 @@ financed
 fineable
 finialed
 finickin
-finiking
 finitely
 finitude
 finnicky
@@ -20968,7 +20889,6 @@ localize
 location
 lockable
 lockdown
-locofoco
 locomote
 locoweed
 loculate
@@ -21066,7 +20986,6 @@ maintain
 maiolica
 majolica
 makeable
-makebate
 makimono
 malamute
 malaprop
@@ -21708,7 +21627,6 @@ outcatch
 outcheat
 outclomb
 outcoach
-outcount
 outcrowd
 outdated
 outdodge
@@ -22468,7 +22386,6 @@ tenacity
 tenacula
 tenanted
 tendance
-tendence
 tendency
 tenement
 tenoning
@@ -22746,7 +22663,6 @@ unageing
 unallied
 unamazed
 unanchor
-unaneled
 unarming
 unartful
 unatoned
@@ -22816,7 +22732,6 @@ undouble
 undubbed
 undulant
 undulate
-undulled
 unedible
 unedited
 unending
@@ -24679,7 +24594,6 @@ enokitake
 enouncing
 enplaning
 entailing
-entamebae
 entamoeba
 entangled
 entelechy
@@ -25229,7 +25143,6 @@ induction
 indulging
 ineffable
 inelegant
-infalling
 infantile
 infantine
 infatuate
@@ -25239,6 +25152,7 @@ infection
 infective
 infeoffed
 infidelic
+infilling
 infirmary
 infirming
 infirmity
@@ -26468,7 +26382,6 @@ undefaced
 undefiled
 undefined
 undeleted
-undeluded
 undiluted
 undivided
 undoubled
@@ -27761,7 +27674,6 @@ organology
 originator
 orphanhood
 outcompete
-outcounted
 outdebated
 outdodging
 outduelled

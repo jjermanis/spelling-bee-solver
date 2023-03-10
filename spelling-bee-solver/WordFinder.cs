@@ -2,11 +2,11 @@
 
 internal class WordFinder
 {
-    // TODO: use invalid words as a filter on the valid words
+    // TODO: though it is rare, puzzles CAN include Q. 
+    // Filter here needs to change. Q needs to be added back to dictionary.
 
     private enum WordStatus
     {
-        HasQ,
         HasS,
         HasEandR,
         TooManyLetters,
@@ -34,6 +34,8 @@ internal class WordFinder
         allLetters.Add(center);
         foreach (var word in _valid_words)
         {
+            if (_invalid_words.Contains(word))
+                continue;
             if (!word.Contains(center))
                 continue;
             var isMatch = true;
@@ -62,9 +64,6 @@ internal class WordFinder
 
     private WordStatus GetWordStatus(string word)
     {
-        if (word.Contains('q'))
-            return WordStatus.HasQ;
-
         if (word.Contains('s'))
             return WordStatus.HasS;
 
@@ -94,9 +93,6 @@ internal class WordFinder
             var status = GetWordStatus(word);
             switch (status)
             {
-                case WordStatus.HasQ:
-                    qCount++;
-                    break;
                 case WordStatus.HasS:
                     sCount++;
                     break;
@@ -133,9 +129,7 @@ internal class WordFinder
     public void InvalidWordsCheck()
     {
         foreach (var word in _valid_words)
-        {
-            if (_invalid_words.Contains(word))
+            if (GetWordStatus(word) != WordStatus.Valid)
                 Console.WriteLine(word);
-        }
     }
 }
