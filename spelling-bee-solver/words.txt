@@ -43,6 +43,7 @@ ante
 anti
 aped
 apex
+aqua
 arch
 arco
 aria
@@ -203,7 +204,6 @@ cage
 cagy
 cake
 caky
-calc
 calf
 calk
 call
@@ -453,7 +453,6 @@ egad
 eked
 elan
 emit
-emmy
 envy
 epee
 epic
@@ -1080,10 +1079,10 @@ myna
 myth
 naan
 nada
-nana
 naif
 nail
 name
+nana
 nape
 narc
 nark
@@ -1299,7 +1298,16 @@ pupa
 purl
 purr
 putt
+quad
+quae
+quam
+quay
+quid
+quip
 quit
+quit
+quiz
+quod
 rack
 racy
 raft
@@ -2313,8 +2321,6 @@ claim
 clamp
 clang
 clank
-clapt
-claro
 clary
 clave
 clavi
@@ -2332,7 +2338,6 @@ clime
 cline
 cling
 clink
-clipt
 cloak
 clock
 clomb
@@ -2485,7 +2490,6 @@ curry
 curvy
 cutey
 cutie
-cutin
 cutty
 cutup
 cuvee
@@ -2764,6 +2768,8 @@ ephod
 epoch
 epode
 epoxy
+equal
+equip
 ethic
 ethyl
 etude
@@ -2973,6 +2979,7 @@ fungi
 fungo
 funky
 funny
+fuqua
 furan
 furor
 furry
@@ -3051,11 +3058,8 @@ ghyll
 giant
 gibed
 giddy
-gighe
-gigot
 gigue
 gilly
-gimel
 gimme
 gimpy
 ginny
@@ -3192,17 +3196,11 @@ gyral
 gyron
 gyved
 habit
-hacek
-hadal
-haded
 hadji
 hafiz
-haika
 haiku
 hairy
 halal
-haled
-halid
 halon
 halva
 halve
@@ -3226,7 +3224,6 @@ haute
 haven
 havoc
 hawed
-hayed
 hazan
 hazed
 hazel
@@ -3866,7 +3863,6 @@ moron
 morph
 motel
 motet
-motey
 mothy
 motif
 motor
@@ -4155,7 +4151,6 @@ phony
 photo
 phyla
 piano
-pical
 picky
 picot
 picul
@@ -4187,7 +4182,7 @@ pinup
 piped
 pipet
 pipit
-pirog
+pique
 pitch
 pithy
 piton
@@ -4213,7 +4208,6 @@ plead
 pleat
 plebe
 plena
-plica
 plied
 plink
 plonk
@@ -4304,8 +4298,33 @@ pygmy
 pylon
 pyran
 pyxie
+quack
+quaff
+quail
+quake
+quaky
+qualm
+quark
+quart
+queen
+quell
+queue
+quick
+quiet
+quiff
+quill
+quilt
+quint
+quirk
+quirt
+quite
+quito
+quoad
+quoin
+quoit
+quota
+quote
 rabbi
-rabic
 rabid
 radar
 radii
@@ -4494,18 +4513,13 @@ thumb
 thump
 thunk
 thurl
-thuya
 thyme
-thymi
 tiara
 tibia
-tical
 tidal
 tided
 tight
-tigon
 tikka
-tilak
 tilde
 tiled
 tilth
@@ -4545,9 +4559,8 @@ tonne
 tooth
 topaz
 toped
-tophe
 topic
-topoi
+toque
 torah
 torch
 toric
@@ -5026,7 +5039,7 @@ achene
 aching
 acidic
 acidly
-acnode
+acquit
 acting
 action
 active
@@ -5061,8 +5074,8 @@ adzuki
 aecial
 aecium
 aedile
-aedine
 aeonic
+aequum
 affair
 affect
 affine
@@ -5178,12 +5191,9 @@ anally
 analog
 ananke
 anarch
-anatto
 anchor
-aneled
 anemia
 anemic
-angary
 angina
 angled
 angora
@@ -5222,7 +5232,6 @@ apathy
 apeman
 apemen
 apiary
-apical
 apiece
 aplite
 aplomb
@@ -5390,6 +5399,7 @@ banjax
 banked
 bankit
 banned
+banque
 bantam
 banyan
 banzai
@@ -5832,15 +5842,13 @@ calico
 caliph
 calked
 calkin
-callan
 called
-callet
 callow
 calmed
 calmly
 calory
+calque
 calved
-camail
 cambia
 camlet
 camped
@@ -5863,7 +5871,6 @@ cannot
 canoed
 canola
 canopy
-cantal
 canted
 cantle
 canton
@@ -5871,12 +5878,9 @@ cantor
 canula
 canyon
 capful
-capita
 caplet
-caplin
 capote
 capped
-captan
 captor
 carbon
 carboy
@@ -5900,7 +5904,6 @@ catena
 catgut
 cation
 catkin
-catlin
 catnap
 catnip
 catted
@@ -6016,6 +6019,7 @@ cilice
 cilium
 cinema
 cineol
+cinque
 citied
 citify
 citing
@@ -6028,6 +6032,7 @@ citron
 clammy
 clamor
 clanky
+claque
 clawed
 claxon
 clayed
@@ -6043,8 +6048,7 @@ climax
 clinch
 clingy
 clinic
-clitic
-clivia
+clique
 cloaca
 cloche
 cloddy
@@ -6323,8 +6327,6 @@ daimon
 daimyo
 dainty
 dakoit
-daledh
-daleth
 dalton
 damage
 dammed
@@ -6334,7 +6336,6 @@ damped
 dampen
 damply
 danced
-dandle
 danged
 dangle
 dangly
@@ -6367,8 +6368,6 @@ deaden
 deadly
 deafen
 deafly
-deaned
-deathy
 deaved
 debate
 debeak
@@ -6437,7 +6436,6 @@ demote
 dengue
 denial
 denied
-denned
 denote
 dental
 dented
@@ -6773,6 +6771,9 @@ epigon
 epilog
 epizoa
 eponym
+equate
+equine
+equity
 etalon
 etamin
 etched
@@ -7395,12 +7396,9 @@ gulley
 gulped
 gummed
 gundog
-gunite
 gunman
 gunmen
 gunned
-gunnel
-gunnen
 guttae
 gutted
 guttle
@@ -7534,7 +7532,6 @@ hexane
 hexing
 hexone
 heyday
-heydey
 hiatal
 hiccup
 hickey
@@ -7727,16 +7724,15 @@ incant
 incept
 inched
 incite
-inclip
+incite
 income
 incony
 incubi
 incult
-indaba
 indeed
 indent
-indict
 indica
+indict
 indign
 indigo
 indite
@@ -8226,6 +8222,8 @@ lipide
 lipoid
 lipoma
 lipped
+liquid
+liquor
 liroth
 litany
 litchi
@@ -8396,6 +8394,7 @@ manioc
 manito
 manitu
 manned
+manque
 mantel
 mantic
 mantid
@@ -8881,9 +8880,9 @@ oolith
 oolong
 oomiak
 oompah
-oorali
 oozily
 oozing
+opaque
 opened
 openly
 ophite
@@ -9026,8 +9025,6 @@ parrot
 partan
 partly
 parton
-parura
-pataca
 patchy
 patent
 patina
@@ -9137,7 +9134,6 @@ phytin
 phytol
 phyton
 piaffe
-pianic
 piazza
 piazze
 picara
@@ -9197,6 +9193,8 @@ pipage
 piping
 pipkin
 pippin
+piqued
+piquet
 piracy
 pirana
 piraya
@@ -9223,6 +9221,7 @@ planar
 planch
 planed
 planet
+plaque
 platan
 plated
 platen
@@ -9236,7 +9235,6 @@ plenum
 plexal
 pliant
 plicae
-plical
 plight
 plinth
 ploidy
@@ -9398,7 +9396,26 @@ pyrola
 pyrrol
 python
 pyuria
-rabato
+quahog
+quaint
+quaked
+quando
+quango
+quanta
+quanti
+quarry
+quarto
+quartz
+quebec
+quench
+queued
+quiche
+quieti
+quince
+quirky
+quokka
+quorum
+quoted
 rabbin
 rabbit
 racial
@@ -9669,11 +9686,9 @@ ticked
 ticket
 tickle
 tidbit
-tiddly
 tidied
 tidily
 tiding
-tieing
 tiepin
 tiffed
 tiffin
@@ -9684,7 +9699,6 @@ tilted
 timbal
 timely
 timing
-tincal
 tineid
 tinful
 tinged
@@ -9697,7 +9711,6 @@ tinman
 tinned
 tinpot
 tinted
-tipcat
 tipoff
 tipped
 tippet
@@ -9824,7 +9837,6 @@ tumuli
 tumult
 tundra
 tuneup
-tunica
 tuning
 tunned
 tunnel
@@ -9864,7 +9876,6 @@ typify
 typing
 tyrant
 tyring
-tythed
 tzetze
 uakari
 ubiety
@@ -9930,9 +9941,8 @@ unhook
 unhung
 unhurt
 unipod
+unique
 united
-unkend
-unkent
 unkept
 unkind
 unkink
@@ -10471,9 +10481,7 @@ abutted
 academe
 academy
 acaleph
-acapnia
 acceded
-accidie
 acclaim
 account
 accrual
@@ -10493,7 +10501,6 @@ acronym
 acrotic
 acrylic
 actable
-actinal
 actinon
 actorly
 actuary
@@ -10616,6 +10623,8 @@ aligned
 aliment
 alimony
 alining
+aliquem
+aliquot
 aliunde
 alkalic
 alkalin
@@ -10759,6 +10768,7 @@ antijam
 antilog
 antiman
 antipot
+antique
 antitax
 antiwar
 antlike
@@ -10779,7 +10789,6 @@ aphonia
 aphonic
 aphotic
 aplenty
-aplitic
 apnoeal
 apnoeic
 apocarp
@@ -10800,6 +10809,9 @@ apraxia
 apraxic
 apricot
 aprotic
+aquaria
+aquatic
+aquilia
 arabica
 araroba
 arcadia
@@ -10944,6 +10956,7 @@ bangkok
 banking
 banning
 bannock
+banquet
 banteng
 baptize
 barbing
@@ -11088,6 +11101,7 @@ betwixt
 beveled
 bevomit
 bewitch
+bezique
 bezzant
 bhangra
 biaxial
@@ -11302,6 +11316,7 @@ boughed
 bounced
 bounded
 bounden
+bouquet
 bourbon
 bourdon
 boweled
@@ -11488,14 +11503,12 @@ caliche
 calicle
 calipee
 calking
-callant
 calling
 calming
 calomel
 caloric
 calotte
 calpack
-calpain
 caltrap
 caltrop
 calumet
@@ -11533,7 +11546,6 @@ cannula
 canonic
 canonry
 canopic
-cantala
 cantata
 cantdog
 canteen
@@ -11854,6 +11866,7 @@ climbed
 clinged
 clinked
 clipped
+cliquey
 cloacal
 cloaked
 clocked
@@ -11918,6 +11931,7 @@ codicil
 codling
 coeliac
 coenact
+coequal
 coffing
 coffled
 cofound
@@ -12046,6 +12060,7 @@ copular
 copyboy
 copycat
 copying
+coquina
 coranto
 corbina
 cordial
@@ -12237,7 +12252,6 @@ danazol
 dancing
 dandify
 dandily
-dandled
 danging
 dangled
 daphnia
@@ -12757,6 +12771,12 @@ eponymy
 epoxide
 epoxied
 epoxyed
+equable
+equably
+equaled
+equally
+equated
+equinox
 etamine
 etchant
 etching
@@ -13885,7 +13905,6 @@ ignoble
 ignobly
 illegal
 illicit
-illitic
 illogic
 illuded
 illumed
@@ -13923,7 +13942,6 @@ inbound
 inbuilt
 incaged
 inching
-incipit
 incited
 incivil
 incline
@@ -13982,6 +14000,7 @@ inkwood
 inlaced
 inlying
 inocula
+inquiry
 intagli
 inthral
 intimae
@@ -14107,6 +14126,7 @@ jollily
 jollity
 joltily
 jolting
+jonquil
 jotting
 jouking
 jounced
@@ -14254,6 +14274,7 @@ komatik
 kopiyka
 kotowed
 krypton
+kumquat
 kunzite
 kvelled
 kvetchy
@@ -14275,7 +14296,6 @@ lacunae
 lacunal
 lacunar
 ladanum
-ladened
 ladhood
 ladling
 ladybug
@@ -14449,6 +14469,7 @@ lionize
 lipidic
 liplike
 lipping
+liquefy
 lithely
 lithify
 lithium
@@ -14564,6 +14585,7 @@ lynched
 lyrical
 lyricon
 macadam
+macaque
 machete
 machine
 machzor
@@ -14976,7 +14998,6 @@ myeloid
 myeloma
 myology
 myomata
-myotome
 myrrhic
 nabbing
 nadiral
@@ -15136,6 +15157,7 @@ numbing
 nummary
 nunatak
 nunlike
+nunquam
 nuptial
 nurling
 nutated
@@ -15144,7 +15166,6 @@ nutlike
 nutmeat
 nutpick
 nuttily
-nutting
 nutwood
 nuzzled
 nylghai
@@ -15161,6 +15182,8 @@ obconic
 obelize
 obeying
 obliged
+oblique
+obloquy
 obovate
 obviate
 ocarina
@@ -15671,6 +15694,8 @@ pipeage
 pipeful
 pipette
 pipping
+piquant
+piquing
 piragua
 piranha
 piratic
@@ -15953,6 +15978,36 @@ pyridic
 pyritic
 pyrrhic
 pyxidia
+quacked
+quadric
+quaffed
+quailed
+quaking
+qualify
+quality
+quantum
+quayage
+queenly
+quelled
+quetzal
+queuing
+quibble
+quicken
+quickie
+quickly
+quieted
+quieten
+quietly
+quilted
+quinine
+quintal
+quintet
+quipped
+quitted
+quixote
+quizzed
+quondam
+quoting
 rabboni
 rabidly
 raccoon
@@ -16253,6 +16308,7 @@ tenthly
 tenting
 tenuity
 tepidly
+tequila
 tetanal
 tetanic
 tetotum
@@ -16371,7 +16427,6 @@ togging
 toggled
 toilful
 toiling
-toiting
 tokamak
 tokened
 tokomak
@@ -16430,7 +16485,6 @@ totable
 totaled
 totally
 totemic
-totting
 touched
 touchup
 toughed
@@ -16528,7 +16582,6 @@ tuneful
 tunicae
 tunicle
 tunnage
-tunning
 tupping
 turacou
 turbith
@@ -16639,6 +16692,7 @@ undrunk
 undular
 undying
 uneaten
+unequal
 unfaded
 unfaith
 unfaked
@@ -16706,6 +16760,8 @@ unpaged
 unpaved
 unpiled
 unplait
+unquiet
+unquote
 unrough
 untaken
 untamed
@@ -17322,6 +17378,7 @@ acidhead
 acidotic
 aciduria
 aconitic
+acquaint
 acridity
 acrodont
 acromial
@@ -17351,6 +17408,8 @@ adducing
 adducted
 adductor
 adeeming
+adequacy
+adequate
 adjacent
 adjoined
 adjudged
@@ -17427,7 +17486,6 @@ albizzia
 alburnum
 alchemic
 alcidine
-aldehyde
 aldicarb
 algaroba
 algicide
@@ -17626,12 +17684,18 @@ appellee
 appended
 appendix
 appetite
+applique
 applying
 approach
 approval
 apractic
 aproning
 aptitude
+aquanaut
+aquarium
+aquatint
+aqueduct
+aquiline
 arachnid
 arapaima
 arbitral
@@ -17912,6 +17976,7 @@ bentwood
 benumbed
 benzidin
 benzoate
+bequeath
 betelnut
 betiding
 beuncled
@@ -18107,6 +18172,7 @@ boughpot
 bouillon
 bouncing
 bounding
+boutique
 bouzouki
 bovinity
 bowelled
@@ -18248,7 +18314,6 @@ calamity
 calcanei
 calceate
 calcined
-calcitic
 calctufa
 calctuff
 caldaria
@@ -18654,6 +18719,7 @@ collegia
 colleted
 collided
 collogue
+colloquy
 colluded
 colluvia
 collying
@@ -18750,6 +18816,8 @@ coplanar
 coppiced
 copybook
 copyhold
+coquette
+coquille
 cordovan
 corduroy
 cordwood
@@ -18875,6 +18943,7 @@ dahabiya
 daidzein
 daimonic
 daintily
+daiquiri
 dairying
 dairyman
 dallying
@@ -19305,6 +19374,7 @@ elliptic
 eloigned
 eloining
 elongate
+eloquent
 eluviate
 emaciate
 emailing
@@ -19413,6 +19483,9 @@ epitomic
 epizoite
 epizooty
 epopoeia
+equalize
+equipage
+equipped
 ethephon
 ethician
 ethicize
@@ -20031,7 +20104,6 @@ guffawed
 guggling
 guileful
 guiltily
-guitguit
 gulflike
 gulfweed
 gullable
@@ -20385,6 +20457,7 @@ ignoring
 iguanian
 illation
 illinium
+illiquid
 illuding
 illumine
 illuming
@@ -20468,6 +20541,7 @@ induline
 inedible
 inedibly
 inedited
+inequity
 infantry
 infaunae
 infected
@@ -20482,7 +20556,6 @@ inflight
 influent
 infobahn
 infolded
-ingoting
 inground
 inguinal
 inhalant
@@ -20490,6 +20563,7 @@ inhaling
 inhumane
 inhuming
 inimical
+iniquity
 initiate
 injected
 injuring
@@ -20550,6 +20624,7 @@ jackaroo
 jackboot
 jacketed
 jackroll
+jacquard
 jaculate
 jadelike
 jaggedly
@@ -20767,7 +20842,6 @@ layabout
 laywoman
 lazulite
 leachate
-leadened
 leadenly
 leaflike
 leaguing
@@ -20917,6 +20991,7 @@ longline
 longneck
 lookdown
 loophole
+loquitur
 lordling
 lordotic
 lothario
@@ -21247,6 +21322,7 @@ moorfowl
 moorland
 moorwort
 mopboard
+moquette
 morainal
 morainic
 moratory
@@ -21962,7 +22038,6 @@ planular
 plateaux
 plateful
 platelet
-platinic
 platting
 playable
 playback
@@ -22183,6 +22258,29 @@ pyriform
 pyrology
 pyrrolic
 pyxidium
+quaalude
+quadrant
+quadroon
+quaffing
+quailing
+quandary
+quantity
+quatrain
+quelling
+quenched
+quibbled
+quieting
+quietude
+quilting
+quincunx
+quintile
+quipping
+quirkily
+quirking
+quitting
+quixotic
+quizzing
+quotient
 rabbinic
 rabbling
 rabidity
@@ -22336,7 +22434,6 @@ tangling
 tangoing
 tanklike
 tannable
-tantalic
 tantalum
 tapeable
 tapelike
@@ -22642,6 +22739,7 @@ typified
 typology
 tyrannic
 tzaritza
+ubiquity
 uglified
 uintaite
 ultimata
@@ -22789,6 +22887,7 @@ unifilar
 unifying
 unimbued
 unionize
+uniquely
 unironic
 unitized
 univalve
@@ -22851,6 +22950,7 @@ unpliant
 unpolled
 unpotted
 unpuzzle
+unquoted
 unrobing
 untagged
 untangle
@@ -22861,7 +22961,6 @@ untended
 untented
 untidied
 untidily
-untieing
 untilled
 untilted
 untinged
@@ -23040,7 +23139,6 @@ volleyed
 volplane
 volution
 vomiting
-vomitive
 vomitory
 voteable
 votively
@@ -23338,6 +23436,7 @@ acetylate
 acetylene
 aciculate
 acidified
+acquittal
 acritarch
 acritical
 acrobatic
@@ -23458,7 +23557,6 @@ amygdalae
 amyotonia
 anabiotic
 anabranch
-anaclitic
 analcimic
 analectic
 analyzing
@@ -23467,7 +23565,6 @@ anarthria
 anarthric
 anchorman
 ancillary
-ancipital
 andantino
 androgyny
 angelical
@@ -23528,6 +23625,8 @@ antinomic
 antipapal
 antiparty
 antipathy
+antiquate
+antiquity
 antiradar
 antitheft
 antitoxic
@@ -23542,7 +23641,6 @@ antiwoman
 anvilling
 apathetic
 aphanitic
-aplanatic
 apocopate
 apocrypha
 apodictic
@@ -23569,6 +23667,8 @@ appointor
 apportion
 apprizing
 apriority
+aquaplane
+aquitaine
 arability
 arabizing
 arbitrary
@@ -23671,6 +23771,7 @@ bandaging
 bandoneon
 bandwagon
 banjaxing
+banquette
 barbarian
 barbarity
 bariatric
@@ -23929,7 +24030,6 @@ cartogram
 cartulary
 carvacrol
 catabolic
-catalatic
 catalogic
 catalytic
 catamaran
@@ -24124,6 +24224,7 @@ collocate
 collodion
 collogued
 colloidal
+colloquia
 collotype
 collotypy
 colluvial
@@ -24156,6 +24257,7 @@ commotion
 commoving
 communing
 communion
+communiqu
 commutate
 compactor
 companion
@@ -24295,7 +24397,6 @@ cytologic
 cytolytic
 cytotoxic
 cytotoxin
-daedalean
 daedalian
 dairymaid
 dalliance
@@ -24538,6 +24639,7 @@ eliminate
 eloigning
 eloinment
 elopement
+eloquence
 emaciated
 emanating
 emanation
@@ -24624,12 +24726,13 @@ epithetic
 epitomize
 epizootic
 epoxidize
+equipping
 ethicized
 ethionine
 ethnicity
-ethylated
 etiolated
 etiologic
+etiquette
 etymology
 euphemize
 eutectoid
@@ -25186,6 +25289,7 @@ inotropic
 inpatient
 inpouring
 inputting
+inquiring
 intellect
 intendant
 intending
@@ -25378,6 +25482,9 @@ lipolitic
 lipolytic
 lipotropy
 lippening
+liquefied
+liquidity
+liquidize
 lithified
 lithoidal
 lithology
@@ -25445,6 +25552,7 @@ manhandle
 manhattan
 manically
 manicotti
+mannequin
 manubrium
 manzanita
 maplelike
@@ -25866,6 +25974,7 @@ paddywack
 paillette
 paintball
 palankeen
+palanquin
 palatable
 palatably
 palatally
@@ -26119,6 +26228,12 @@ putridity
 puttyroot
 puzzledly
 pyralidid
+quarryman
+quibbling
+quietened
+quintroon
+quizzical
+quotation
 rabbiting
 radiating
 radiation
@@ -26396,6 +26511,8 @@ unelected
 unendowed
 unengaged
 unenjoyed
+unequaled
+unequally
 unevolved
 unfailing
 unfeeling
@@ -26407,7 +26524,6 @@ unfounded
 unfurling
 ungallant
 ungenteel
-ungenuine
 ungirding
 ungloving
 unguentum
@@ -26745,7 +26861,6 @@ antibiotic
 anticaking
 anticipant
 anticipate
-anticlinal
 antidoting
 antiemetic
 antimonial
@@ -26931,6 +27046,8 @@ collection
 collective
 collocated
 colloguing
+colloquial
+colloquium
 colobomata
 colonially
 colonizing
@@ -27492,6 +27609,7 @@ lincomycin
 lipophilic
 lipotropic
 lipotropin
+liquidized
 lithologic
 litigating
 litigation
@@ -27741,7 +27859,6 @@ photodiode
 photoflood
 photograph
 phototoxic
-piccalilli
 pickaninny
 pickpocket
 picnicking
@@ -27807,6 +27924,7 @@ tattletale
 technician
 teetotaled
 teetotally
+telehealth
 teleologic
 televiewed
 telnetting
@@ -27883,6 +28001,7 @@ undetected
 undidactic
 uneconomic
 uneducated
+unequipped
 uneventful
 unexcelled
 unexpended
@@ -27914,6 +28033,7 @@ unnameable
 unplugging
 unpunctual
 unpuzzling
+unquenched
 unriddling
 unrounding
 untalented
@@ -28007,6 +28127,9 @@ antimitotic
 antinatural
 antioxidant
 antiozonant
+antiquarian
+antiquating
+antiquation
 antitobacco
 antivitamin
 appallingly
@@ -28014,6 +28137,7 @@ appellative
 applaudable
 applaudably
 approbatory
+aquatinting
 arbitraging
 arbitrarily
 arbitrating
@@ -28199,6 +28323,7 @@ idyllically
 illegalized
 illimitable
 illimitably
+illiquidity
 illogically
 imagination
 immigrating
@@ -28395,6 +28520,7 @@ protomartyr
 protonation
 protonotary
 prototrophy
+quintillion
 radiolarian
 razzamatazz
 rhythmicity
