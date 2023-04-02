@@ -37,7 +37,6 @@ amyl
 anal
 anew
 ankh
-anne
 anon
 ante
 anti
@@ -56,7 +55,6 @@ atop
 aunt
 aura
 auto
-avdp
 avid
 avow
 away
@@ -206,7 +204,6 @@ cagy
 cake
 caky
 calf
-calk
 call
 calm
 came
@@ -242,7 +239,6 @@ chin
 chip
 chit
 chop
-chou
 chow
 chub
 chug
@@ -401,6 +397,7 @@ doth
 dour
 dove
 down
+doxx
 doxy
 doze
 dozy
@@ -583,7 +580,6 @@ gang
 gape
 gapy
 garb
-gary
 gate
 gave
 gawk
@@ -824,6 +820,7 @@ keno
 kent
 kepi
 kept
+keto
 khan
 kick
 kill
@@ -860,7 +857,6 @@ laic
 laid
 lain
 lair
-lait
 lake
 lama
 lamb
@@ -1026,7 +1022,6 @@ mild
 mile
 milk
 mill
-milt
 mime
 mind
 mine
@@ -1082,7 +1077,6 @@ nape
 narc
 nark
 nary
-natl
 nato
 naut
 nave
@@ -1117,6 +1111,7 @@ nuke
 null
 numb
 oath
+oaty
 obey
 obit
 oboe
@@ -1200,6 +1195,7 @@ pelt
 pend
 pent
 peon
+pfft
 phat
 phew
 phiz
@@ -1319,9 +1315,7 @@ rani
 rank
 rant
 rapt
-rata
 razz
-rcpt
 rial
 rich
 rick
@@ -1366,6 +1360,7 @@ tail
 take
 talc
 tale
+tali
 talk
 tall
 tame
@@ -1419,8 +1414,8 @@ tine
 tint
 tiny
 toad
+tock
 toed
-toff
 tofu
 toga
 toil
@@ -1469,7 +1464,6 @@ turf
 turk
 turn
 tutu
-twat
 twig
 twin
 twit
@@ -1769,7 +1763,6 @@ amity
 amnio
 amole
 among
-amort
 amour
 amped
 ample
@@ -1817,15 +1810,10 @@ armor
 aroma
 array
 arrow
-artal
 ataxy
 atilt
-atman
 atoll
-atomy
 atone
-atony
-atopy
 atria
 attar
 attic
@@ -1892,10 +1880,8 @@ bandy
 baned
 banjo
 banty
-baric
 barky
 barmy
-barny
 baron
 batch
 bated
@@ -1957,15 +1943,11 @@ biddy
 bided
 bidet
 biffy
-bifid
-biggy
 bight
 bigly
 bigot
 bijou
 biked
-bikie
-bilby
 bilge
 bilgy
 billy
@@ -2292,18 +2274,12 @@ claim
 clamp
 clang
 clank
-clary
 clave
-clavi
 clean
 cleat
-cleek
 cleft
-clepe
-clept
 click
 cliff
-clift
 climb
 clime
 cline
@@ -2315,10 +2291,8 @@ clomb
 clomp
 clone
 clonk
-cloot
 cloth
 cloud
-clour
 clout
 clove
 clown
@@ -2423,8 +2397,6 @@ crown
 cruck
 crumb
 crump
-cruor
-crura
 crwth
 crypt
 cubby
@@ -2606,9 +2578,9 @@ dowel
 dowie
 downy
 dowry
+doxed
 doxie
 doyen
-doyly
 dozed
 dozen
 draff
@@ -2671,7 +2643,6 @@ eaten
 eaved
 ebbed
 ebony
-ebook
 eclat
 edema
 edged
@@ -2788,8 +2759,6 @@ felly
 felon
 femme
 fence
-fenny
-feoff
 fetal
 fetch
 feted
@@ -2818,8 +2787,6 @@ final
 finch
 fined
 finny
-fiord
-firry
 firth
 fitch
 fitly
@@ -2882,12 +2849,7 @@ folic
 folio
 folky
 folly
-fondu
-footy
-foram
 foray
-forby
-fordo
 forgo
 forky
 forth
@@ -2904,7 +2866,6 @@ fraud
 friar
 frill
 frith
-fritt
 fritz
 frizz
 frock
@@ -3010,11 +2971,8 @@ gigue
 gilly
 gimme
 gimpy
-ginny
 ginzo
-gipon
 girly
-giron
 girth
 given
 gizmo
@@ -3405,7 +3363,6 @@ kaury
 kayak
 kazoo
 kebab
-kebob
 kedge
 kelep
 kelim
@@ -3421,14 +3378,8 @@ ketol
 keyed
 khadi
 khaki
-khaph
 kheda
-kheth
 khoum
-kibbe
-kibbi
-kibei
-kibla
 kicky
 kiddo
 kiddy
@@ -3670,8 +3621,6 @@ mamba
 mambo
 mamey
 mamma
-mammy
-manat
 maned
 manga
 mange
@@ -3692,7 +3641,6 @@ marry
 match
 mated
 matey
-matin
 matte
 matza
 matzo
@@ -3732,12 +3680,9 @@ miaow
 micra
 micro
 midge
-miffy
 might
 miked
-mikra
 milch
-milia
 milky
 milty
 mimed
@@ -3832,9 +3777,7 @@ muton
 muzzy
 mylar
 mynah
-myoma
 myope
-myopy
 myrrh
 nabob
 nacho
@@ -4244,13 +4187,11 @@ radii
 radio
 radix
 radon
-raggy
 rainy
 raita
 rajah
 rally
 ralph
-rammy
 ranch
 rando
 randy
@@ -4336,10 +4277,7 @@ talar
 talky
 tally
 talon
-taluk
-tamal
 tamed
-tammy
 tanga
 tango
 tangy
@@ -4447,8 +4385,6 @@ tizzy
 toady
 today
 toddy
-toffy
-togae
 togue
 toile
 tokay
@@ -4515,13 +4451,10 @@ trooz
 troth
 trout
 truck
-trull
 truly
 trump
 trunk
 truth
-tryma
-tubae
 tubal
 tubby
 tubed
@@ -4922,9 +4855,7 @@ abulia
 abulic
 abvolt
 abwatt
-abying
 acacia
-acajou
 accede
 accent
 accept
@@ -5169,8 +5100,6 @@ arrant
 arroyo
 artful
 artily
-atabal
-ataman
 ataxia
 ataxic
 atelic
@@ -5390,7 +5319,6 @@ belaud
 beldam
 belied
 belief
-belike
 belive
 belled
 bellow
@@ -5544,7 +5472,6 @@ bonnet
 bonnie
 bonobo
 booboo
-boocoo
 boodle
 boogey
 boogie
@@ -5558,7 +5485,6 @@ booted
 bootee
 bootie
 boozed
-bopeep
 bopped
 boring
 borrow
@@ -5598,7 +5524,6 @@ brahma
 brainy
 branch
 brandy
-branny
 bratty
 brawly
 brawny
@@ -5932,10 +5857,8 @@ clayed
 clayey
 cleave
 clench
-cleped
 cliche
 client
-cliffy
 climax
 clinch
 clingy
@@ -6008,11 +5931,7 @@ colead
 collar
 collet
 collie
-collop
-colobi
-coloni
 colony
-colour
 colugo
 column
 comade
@@ -6062,7 +5981,6 @@ coombe
 cooped
 cootie
 copalm
-copeck
 copied
 coping
 coplot
@@ -6143,11 +6061,9 @@ cruddy
 crumby
 crummy
 crunch
-crural
 crutch
 crying
 crypto
-cuatro
 cubage
 cubing
 cubiti
@@ -6180,7 +6096,6 @@ curacy
 curial
 curing
 curium
-curtal
 curtly
 cutely
 cutlet
@@ -6492,7 +6407,7 @@ dourah
 dourly
 dowing
 downed
-doyley
+doxxed
 dozily
 dozing
 drably
@@ -6720,7 +6635,6 @@ eyelid
 fabled
 fabric
 facade
-facete
 faceup
 facial
 facile
@@ -7288,9 +7202,7 @@ guttle
 guying
 guzzle
 gweduc
-gybing
 gypped
-gyring
 gyttja
 gyving
 habile
@@ -7657,7 +7569,6 @@ intact
 intake
 intend
 intent
-intima
 intomb
 intone
 intort
@@ -7794,9 +7705,7 @@ junket
 junkie
 jurant
 jutted
-kabala
 kabaya
-kabiki
 kabuki
 kaffir
 kaftan
@@ -7817,13 +7726,10 @@ kaolin
 kaonic
 kaputt
 karmic
-karroo
 kation
 kayoed
-kebbie
 keblah
 kecked
-keckle
 keddah
 kedged
 keeked
@@ -7932,7 +7838,6 @@ lacily
 lacing
 lacked
 lackey
-lactam
 lactic
 lacuna
 lacune
@@ -8275,7 +8180,6 @@ manitu
 manned
 manque
 mantel
-mantic
 mantid
 mantle
 mantra
@@ -8301,7 +8205,6 @@ mating
 matrix
 matron
 matted
-mattin
 matzah
 matzoh
 matzot
@@ -8700,7 +8603,6 @@ oblate
 oblige
 oblong
 obtain
-obtect
 obtund
 occult
 occupy
@@ -8778,10 +8680,8 @@ ormolu
 orphan
 orphic
 otalgy
-ottava
 ouched
 ourari
-outact
 outadd
 outage
 outate
@@ -9427,6 +9327,7 @@ talent
 talion
 talked
 talkie
+tallit
 tallow
 taluka
 tamale
@@ -9451,7 +9352,6 @@ tantra
 tanuki
 taping
 tapped
-tarama
 tariff
 taring
 tarmac
@@ -9566,7 +9466,6 @@ tingly
 tinily
 tinkle
 tinkly
-tinman
 tinned
 tinpot
 tinted
@@ -9623,9 +9522,7 @@ toroid
 torpid
 torpor
 torrid
-torula
 toting
-totted
 toucan
 touche
 touchy
@@ -9700,7 +9597,6 @@ tuning
 tunned
 tunnel
 tupelo
-turaco
 turban
 turbid
 turbit
@@ -10303,7 +10199,6 @@ zydeco
 zygoid
 zygoma
 zygote
-aarrghh
 abalone
 abandon
 abating
@@ -10320,7 +10215,6 @@ ability
 abiotic
 ablated
 ablator
-abluent
 abluted
 aboding
 abollae
@@ -10360,7 +10254,6 @@ actuate
 acutely
 acyclic
 acylate
-acyloin
 adagial
 adamant
 adapted
@@ -10393,7 +10286,6 @@ adulate
 adultly
 advance
 adwoman
-adwomen
 aecidia
 aeolian
 aeonian
@@ -10416,13 +10308,9 @@ agemate
 agendum
 agenize
 agented
-aggadah
-aggadic
-aggadot
 agilely
 agility
 agitate
-agitato
 aglycon
 agnatic
 agnized
@@ -10461,7 +10349,6 @@ alchemy
 alchymy
 alcohol
 alcoved
-alembic
 alewife
 alexine
 alfalfa
@@ -10478,7 +10365,6 @@ alining
 aliquem
 aliquot
 aliunde
-alkalic
 alkalin
 alkanet
 alkylic
@@ -10512,7 +10398,6 @@ alumnae
 alunite
 alveoli
 amalgam
-amanita
 amative
 amatory
 amazing
@@ -10588,7 +10473,6 @@ animato
 anionic
 ankling
 anlagen
-annatto
 annelid
 annexed
 annoyed
@@ -10618,7 +10502,6 @@ antigen
 antigun
 antijam
 antilog
-antiman
 antipot
 antique
 antitax
@@ -10664,7 +10547,6 @@ aquaria
 aquatic
 aquilia
 arabica
-araroba
 arcadia
 arcanum
 archaic
@@ -10881,7 +10763,6 @@ beefalo
 beefily
 beefing
 beehive
-beelike
 beeline
 beeping
 beetled
@@ -10905,7 +10786,6 @@ beldame
 beleapt
 believe
 bellboy
-belleek
 bellhop
 bellied
 belling
@@ -10956,7 +10836,6 @@ biaxial
 bibbing
 bibcock
 bibelot
-biblike
 bicolor
 bicycle
 bidarka
@@ -11352,6 +11231,7 @@ calicle
 calipee
 calking
 calling
+callout
 calming
 calomel
 caloric
@@ -11426,7 +11306,6 @@ carabao
 carabid
 carabin
 caracol
-caracul
 caramba
 carapax
 caravan
@@ -11465,11 +11344,8 @@ catcall
 catchup
 catclaw
 catechu
-catenae
-catface
 catfall
 cathead
-cathect
 cathode
 catjang
 catlike
@@ -11678,7 +11554,6 @@ cladded
 cladode
 clagged
 claimed
-clamant
 clammed
 clamour
 clamped
@@ -12034,7 +11909,6 @@ cupulae
 cupular
 curably
 curacao
-curacoa
 curator
 curbing
 curcuma
@@ -12792,7 +12666,6 @@ fenagle
 fencing
 fending
 fenland
-feoffed
 fetched
 fetidly
 fetlock
@@ -12999,7 +12872,6 @@ formula
 fortify
 forward
 forworn
-fouette
 foulard
 fouling
 founded
@@ -13123,9 +12995,7 @@ ganglia
 gangway
 gantlet
 gapping
-garbagy
 garbing
-garboil
 gardant
 garland
 garring
@@ -13728,7 +13598,6 @@ hypoxia
 hypoxic
 iceboat
 icefall
-icelike
 ichnite
 icicled
 ideally
@@ -13841,8 +13710,6 @@ inocula
 inquiry
 intagli
 inthral
-intimae
-intimal
 intoned
 intrant
 introfy
@@ -13996,10 +13863,7 @@ juryman
 juttied
 jutting
 juvenal
-kabbala
 kachina
-kainite
-kajeput
 kalimba
 kampong
 kantele
@@ -14011,7 +13875,6 @@ kathode
 katydid
 kayaked
 kayoing
-kebbock
 kebbuck
 kecking
 keckled
@@ -14345,7 +14208,6 @@ locknut
 lockout
 lockram
 locoing
-locular
 loculed
 lodging
 loftily
@@ -14522,23 +14384,18 @@ marimba
 marital
 markhor
 marking
-markkaa
 marling
 marplot
-marrano
 marring
-marrowy
 martial
 martian
 marting
 martini
-martyry
 matador
 matched
 matchup
 matelot
 matilda
-matinal
 matinee
 matting
 mattock
@@ -14750,7 +14607,6 @@ moronic
 morphia
 morphic
 morphin
-mortary
 mortify
 motific
 motived
@@ -14828,14 +14684,10 @@ myalgia
 myalgic
 mycelia
 mycotic
-myeline
 myeloid
 myeloma
-myomata
 myrrhic
 nabbing
-nadiral
-naevoid
 nagging
 nailing
 naively
@@ -15118,7 +14970,6 @@ outbeam
 outbrag
 outbulk
 outburn
-outcall
 outchid
 outcity
 outcome
@@ -15141,7 +14992,6 @@ outfind
 outflew
 outflow
 outfool
-outfoot
 outgain
 outgave
 outgaze
@@ -15182,13 +15032,9 @@ outpray
 outrang
 outrank
 outring
-outroar
 outrock
-outroll
-outroot
 outtake
 outtalk
-outtell
 outtold
 outvied
 outvote
@@ -15394,7 +15240,6 @@ peeving
 pegging
 peglike
 peining
-pekepoo
 pelagic
 pelican
 pelitic
@@ -15426,7 +15271,6 @@ pepping
 peptalk
 peptide
 petaled
-petcock
 petiole
 pettily
 petting
@@ -16034,13 +15878,10 @@ tallith
 tallowy
 tallyho
 taloned
-talooka
 tamable
 tamandu
-tamarao
 tamarau
 tamarin
-tambala
 tambour
 tambura
 tampala
@@ -16077,7 +15918,6 @@ taproot
 tardily
 tardyon
 tarring
-tartana
 tartily
 tarting
 tatouay
@@ -16302,7 +16142,6 @@ toppled
 topwork
 torchon
 tornado
-torrify
 tortoni
 tortrix
 totable
@@ -16315,12 +16154,10 @@ toughed
 toughen
 toughie
 toughly
-touraco
 touring
 touting
 touzled
 towable
-towaway
 towboat
 toweled
 towhead
@@ -16352,9 +16189,7 @@ triclad
 tricorn
 triduum
 trifold
-triform
 trigram
-trilith
 trilogy
 trinary
 trining
@@ -16379,8 +16214,6 @@ trophic
 trowing
 truancy
 trucing
-trymata
-tryptic
 tubbing
 tubifex
 tublike
@@ -16406,7 +16239,6 @@ tunicae
 tunicle
 tunnage
 tupping
-turacou
 turbith
 turfing
 turfman
@@ -17048,13 +16880,11 @@ yapping
 yardarm
 yarding
 yardman
-yarning
 yatagan
 yauping
 yawling
 yawning
 yawping
-ycleped
 yealing
 yeaning
 yeggman
@@ -17066,7 +16896,6 @@ yenning
 yeuking
 yielded
 yipping
-yirring
 yocking
 yodeled
 yodling
@@ -17355,7 +17184,6 @@ aluminum
 alumroot
 amadavat
 amandine
-amanitin
 amaranth
 amazedly
 ambiance
@@ -17528,7 +17356,6 @@ armchair
 armonica
 armorial
 armoring
-armyworm
 aromatic
 arrantly
 arraying
@@ -17708,7 +17535,6 @@ bdellium
 beachboy
 beaconed
 beadlike
-beaklike
 beamlike
 beanball
 beanlike
@@ -18122,9 +17948,7 @@ calabaza
 caladium
 calamari
 calamary
-calamata
 calamine
-calamint
 calamite
 calamity
 calcanei
@@ -18424,7 +18248,6 @@ clenched
 cleveite
 clicking
 cliental
-climatal
 climatic
 climbing
 clinally
@@ -20516,12 +20339,10 @@ ketamine
 keynoted
 kibbling
 kibitzed
-kickable
 kickback
 kickball
 kidnaped
 kidnapee
-killable
 kilomole
 kilovolt
 kilowatt
@@ -20575,7 +20396,6 @@ labiated
 lability
 labrador
 laburnum
-lacelike
 lacewood
 lackaday
 lackeyed
@@ -20897,12 +20717,10 @@ mangling
 mangonel
 maniacal
 mannikin
-mannitic
 mannitol
 manorial
 manteaux
 mantelet
-mantilla
 mantling
 manually
 manubria
@@ -21129,9 +20947,7 @@ mopboard
 moquette
 morainal
 morainic
-moratory
 morbific
-morbilli
 moronity
 mortally
 mortmain
@@ -21215,6 +21031,7 @@ nailhead
 naloxone
 nameable
 nametape
+nannying
 nanogram
 nanotech
 nanotube
@@ -22160,7 +21977,6 @@ rootworm
 rotating
 rotation
 rotatory
-rotiform
 rototill
 roughdry
 roughing
@@ -22213,7 +22029,6 @@ talented
 talkable
 talkback
 tallaged
-tallitim
 tallowed
 tallying
 tallyman
@@ -23470,7 +23285,6 @@ arranging
 arrogancy
 arrowroot
 arrowwood
-arrowworm
 arthritic
 arthropod
 articular
@@ -23972,7 +23786,6 @@ cockneyfy
 cockroach
 cocooning
 cocozelle
-cocurator
 codevelop
 coelomata
 coelomate
@@ -25718,7 +25531,6 @@ outdueled
 outechoed
 outfitted
 outfooled
-outfooted
 outfought
 outgallop
 outgiving
@@ -26211,11 +26023,8 @@ twitching
 typhlitic
 typically
 typifying
-tzaddikim
 uglifying
-uintahite
 ultimatum
-ultracool
 ululating
 ululation
 umbellate
