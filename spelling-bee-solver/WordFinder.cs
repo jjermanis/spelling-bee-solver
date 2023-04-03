@@ -2,14 +2,16 @@
 
 internal class WordFinder
 {
-    // TODO: though it is rare, puzzles CAN include Q. 
-    // Filter here needs to change. Q needs to be added back to dictionary.
+    // TODO: most of this class is dictionary cleanup. Separate into new class?
+    // TODO: only create the update file if anything has changed
+    // TODO: profile performance. Start up takes ~2 seconds now.
 
     private enum WordStatus
     {
         HasS,
         HasEandR,
         TooManyLetters,
+        NeverInPangram,
         KnownInvalid,
         Valid
     }
@@ -20,11 +22,13 @@ internal class WordFinder
 
     private readonly IEnumerable<string> _valid_words;
     private readonly HashSet<string> _invalid_words;
+    private readonly HashSet<string> _all_pangrams;
 
     public WordFinder()
     {
         _valid_words = File.ReadLines(VALID_WORDS_PATH);
         _invalid_words = new HashSet<string>(File.ReadLines(INVALID_WORDS_PATH));
+        _all_pangrams = AllPangrams();
     }
 
     public List<string> FindWords(char center, HashSet<char> letters)
@@ -76,6 +80,9 @@ internal class WordFinder
         if (distinct.Count > 7)
             return WordStatus.TooManyLetters;
 
+        if (!IsInPangram(word))
+            return WordStatus.NeverInPangram;
+
         if (_invalid_words.Contains(word))
             return WordStatus.KnownInvalid;
 
@@ -84,7 +91,6 @@ internal class WordFinder
 
     public void SanityCheck()
     {
-        var qCount = 0;
         var sCount = 0;
         var erCount = 0;
         var distinctLetterCount = 0;
@@ -108,7 +114,6 @@ internal class WordFinder
                     throw new Exception($"Unhandled case: {status}");
             }
         }
-        Console.WriteLine($"{qCount} words containing Q.");
         Console.WriteLine($"{sCount} words containing S.");
         Console.WriteLine($"{erCount} words containing E and R.");
         Console.WriteLine($"{distinctLetterCount} words with more than 7 different letters.");
@@ -121,8 +126,12 @@ internal class WordFinder
             var distinct = new HashSet<char>();
             foreach (var c in word)
                 distinct.Add(c);
-            if (distinct.Count <= 3)
+            //if (distinct.Count <= 3)
+            //    Console.WriteLine(word);
+            if (distinct.Count <= 4 && word.Length >= 7)
                 Console.WriteLine(word);
+            //if (distinct.Count <= 5 && word.Length >= 10)
+            //    Console.WriteLine(word);
         }
     }
 
@@ -131,5 +140,35 @@ internal class WordFinder
         foreach (var word in _valid_words)
             if (GetWordStatus(word) != WordStatus.Valid)
                 Console.WriteLine(word);
+    }
+
+    private bool IsInPangram(string word)
+    {
+        foreach (var pangram in _all_pangrams)
+            if (IsWordInPangram(word, pangram))
+                return true;
+        return false;
+    }
+
+    private static bool IsWordInPangram(string word, string pangram)
+    {
+        foreach (var c in word)
+            if (!pangram.Contains(c))
+                return false;
+        return true;
+    }
+
+    private HashSet<string> AllPangrams()
+    {
+        var result = new HashSet<string>();
+        foreach (var word in _valid_words)
+        {
+            var currLetters = new HashSet<char>();
+            foreach (var c in word)
+                currLetters.Add(c);
+            if (currLetters.Count == 7)
+                result.Add(word);
+        }
+        return result;
     }
 }
