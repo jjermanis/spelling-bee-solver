@@ -47,6 +47,7 @@ arch
 arco
 aria
 arid
+aril
 army
 arty
 arum
@@ -59,7 +60,6 @@ avid
 avow
 away
 awed
-awol
 awry
 axed
 axel
@@ -446,6 +446,7 @@ edgy
 edit
 eely
 egad
+eggy
 eked
 elan
 emit
@@ -887,7 +888,6 @@ lewd
 liar
 lice
 lick
-lido
 lied
 lien
 lieu
@@ -902,12 +902,9 @@ lime
 limn
 limo
 limp
-limy
 line
-ling
 link
 lint
-liny
 lion
 lira
 lite
@@ -940,7 +937,6 @@ loot
 lope
 lord
 lorn
-lory
 loud
 lout
 love
@@ -1290,7 +1286,6 @@ quay
 quid
 quip
 quit
-quit
 quiz
 quod
 rack
@@ -1576,9 +1571,7 @@ wipe
 wiry
 with
 wive
-woad
 woke
-wold
 wolf
 womb
 wont
@@ -1595,7 +1588,6 @@ wove
 wrap
 writ
 yack
-yale
 yang
 yank
 yard
@@ -1604,7 +1596,6 @@ yawl
 yawn
 yawp
 yeah
-yegg
 yell
 yelp
 yeti
@@ -1620,7 +1611,6 @@ yowl
 yuan
 yule
 yurt
-ywca
 zany
 zeal
 zebu
@@ -1628,7 +1618,6 @@ zeta
 zinc
 zine
 zing
-zion
 zone
 zoom
 zulu
@@ -1675,7 +1664,6 @@ adobe
 adobo
 adopt
 adorn
-adown
 adoze
 adult
 adunc
@@ -1695,18 +1683,15 @@ aggie
 agile
 aging
 agita
-aglee
 aglet
-agley
 aglow
 agone
 agony
 agora
-agria
 ahead
-ahing
 ahold
 aided
+ailed
 ailed
 aimed
 aioli
@@ -1821,7 +1806,6 @@ awake
 award
 awful
 awing
-awned
 awoke
 axial
 axile
@@ -1978,10 +1962,8 @@ bloop
 blown
 blowy
 blued
-bluet
 bluey
 bluff
-blume
 blunt
 blurb
 blurt
@@ -2063,7 +2045,6 @@ bruin
 bruit
 brung
 brunt
-bubal
 bubba
 bubby
 bucko
@@ -2079,7 +2060,6 @@ built
 bulge
 bulgy
 bulky
-bulla
 bully
 bumph
 bumpy
@@ -2100,13 +2080,10 @@ burro
 burry
 butch
 buteo
-butle
 butte
 butty
-butut
 butyl
 buxom
-bwana
 bylaw
 byway
 cabal
@@ -2419,8 +2396,6 @@ dauby
 daunt
 daven
 davit
-dawed
-dawen
 dazed
 dealt
 death
@@ -2460,12 +2435,9 @@ depth
 detox
 deuce
 devil
-dewan
 dewax
-dewed
 dexie
 dhobi
-dhole
 dhoti
 dhuti
 diary
@@ -2521,7 +2493,6 @@ domed
 donee
 donor
 donut
-dooly
 doomy
 doozy
 doped
@@ -2533,9 +2504,7 @@ dotty
 doubt
 dough
 doula
-douma
 dowdy
-dowed
 dowel
 dowie
 downy
@@ -2554,9 +2523,7 @@ drawl
 drawn
 drift
 drill
-drily
 drink
-dript
 droid
 droll
 drool
@@ -2581,7 +2548,6 @@ dummy
 dumpy
 dunam
 dunce
-dunch
 dungy
 duomi
 duomo
@@ -2625,7 +2591,6 @@ elide
 elite
 elope
 elude
-elute
 email
 embay
 embed
@@ -2859,9 +2824,6 @@ gadjo
 gaffe
 gaged
 gaily
-galax
-galea
-gally
 galop
 gamay
 gamba
@@ -2890,7 +2852,6 @@ gauzy
 gavel
 gavot
 gawky
-gayal
 gayly
 gazar
 gazed
@@ -3200,6 +3161,7 @@ inned
 innie
 input
 inrun
+intel
 intro
 inurn
 invar
@@ -3345,7 +3307,7 @@ lacey
 laded
 laden
 ladle
-lagan
+laggy
 laith
 laity
 laked
@@ -3369,7 +3331,6 @@ latke
 latte
 laugh
 laved
-lawed
 lawny
 laxly
 layed
@@ -3417,13 +3378,10 @@ limbi
 limbo
 limby
 limed
-limen
-limey
 limit
 lindy
 lined
 linen
-liney
 linga
 lingo
 lingy
@@ -3454,15 +3412,14 @@ logic
 login
 longe
 looed
-looey
 loofa
 looie
 loony
 loopy
 loped
 loppy
+lordy
 lorry
-lotic
 lotto
 lough
 louie
@@ -3487,11 +3444,8 @@ lunch
 lunge
 lurch
 lurid
-lutea
 luted
-lyart
 lycea
-lycee
 lycra
 lying
 lymph
@@ -3582,7 +3536,6 @@ might
 miked
 milch
 milky
-milty
 mimed
 mimeo
 mimic
@@ -3695,7 +3648,6 @@ nawab
 neath
 needy
 neigh
-nelly
 netty
 newel
 newly
@@ -4105,10 +4057,7 @@ roach
 robin
 robot
 rocky
-roily
-roman
 rondo
-rooky
 roomy
 rotch
 rotor
@@ -4187,11 +4136,8 @@ teddy
 teeny
 teeth
 tegua
-telco
 telex
 telic
-telly
-teloi
 tempi
 tempo
 tempt
@@ -4362,10 +4308,8 @@ tying
 tyned
 typed
 typic
-ulema
 ulnae
 ulnar
-ulpan
 ultra
 umami
 umbra
@@ -4418,7 +4362,6 @@ upend
 uplit
 upped
 urban
-urial
 utile
 uveal
 uvula
@@ -4467,7 +4410,6 @@ viola
 viral
 virga
 virid
-virtu
 vital
 vivid
 vixen
@@ -4501,7 +4443,6 @@ wahoo
 waive
 waked
 waken
-waled
 waltz
 waned
 wanly
@@ -4512,11 +4453,8 @@ waved
 wavey
 waxed
 waxen
-weald
 weave
 webby
-wecht
-wedel
 wedge
 weedy
 weeny
@@ -4569,7 +4507,6 @@ wiggy
 wight
 wilco
 wiled
-willy
 wince
 winch
 windy
@@ -4583,16 +4520,13 @@ withy
 witty
 wived
 wizen
-woald
 wodge
 woful
 woken
 woman
 women
-womyn
 woody
 wooed
-wooly
 woozy
 wordy
 world
@@ -4681,16 +4615,13 @@ zooid
 zooty
 zoril
 zowie
-aarrgh
 abated
-abator
 abbacy
 abduce
 abduct
 abided
 abject
 ablate
-ablaut
 ablaze
 abloom
 aboard
@@ -4899,11 +4830,7 @@ apiary
 apiece
 aplite
 apneic
-apnoea
-apodal
 apogee
-apollo
-apolog
 appall
 appeal
 append
@@ -5066,16 +4993,11 @@ bathed
 bating
 batted
 batten
-battik
 battle
-battue
-baubee
 bauble
 baulky
-bawbee
 bawled
 bawtie
-bayamo
 bayard
 baying
 bayman
@@ -5346,8 +5268,6 @@ brulot
 brumal
 brumby
 brutal
-bryony
-bubale
 bubble
 bubbly
 buboed
@@ -5370,12 +5290,9 @@ bugled
 bugout
 bulbar
 bulbed
-bulbel
-bulbil
 bulged
 bulgur
 bulked
-bullae
 bulled
 bullet
 bumble
@@ -5950,7 +5867,6 @@ deejay
 deemed
 deepen
 deeply
-deewan
 deface
 defame
 defang
@@ -6016,13 +5932,8 @@ devout
 dewily
 dewing
 dewlap
-dewool
 dezinc
 dharma
-dharna
-dhooly
-dhoora
-dhooti
 diadem
 dialed
 dialog
@@ -6245,9 +6156,7 @@ elodea
 eloign
 eloped
 eluant
-eluate
 eluded
-eluent
 eluted
 eluvia
 embalm
@@ -6548,7 +6457,6 @@ folium
 folkie
 follow
 foment
-fomite
 fonded
 fondle
 fondue
@@ -6706,13 +6614,10 @@ genome
 gentil
 gentle
 gently
-gentoo
 geodic
 gewgaw
-gharri
 gharry
 ghetto
-ghibli
 giaour
 gibbet
 gibbon
@@ -6746,9 +6651,6 @@ glamor
 glance
 glazed
 gleamy
-glebae
-gleety
-glegly
 gleyed
 glibly
 glided
@@ -6806,7 +6708,6 @@ goodly
 goofed
 googly
 googol
-gooney
 goonie
 gorgon
 goring
@@ -6926,12 +6827,9 @@ hapten
 haptic
 harbor
 hardly
-haring
 harlot
 harmin
-harpin
 harrow
-hartal
 hatful
 hating
 hatpin
@@ -6977,11 +6875,7 @@ helped
 helved
 hemmed
 hemoid
-hempen
 hempie
-henbit
-henley
-hented
 hepcat
 heptad
 hetman
@@ -7447,7 +7341,6 @@ lanate
 lanced
 lancet
 landed
-lanely
 langue
 langur
 lankly
@@ -7467,7 +7360,6 @@ latent
 lathed
 latigo
 latino
-latria
 latten
 lauded
 launce
@@ -7496,8 +7388,6 @@ leaden
 leafed
 league
 leaked
-leally
-lealty
 leaned
 leanly
 leaped
@@ -7566,7 +7456,6 @@ limuli
 linage
 linden
 lineal
-lineny
 lineup
 lingam
 lingua
@@ -7626,7 +7515,6 @@ loofah
 looked
 lookup
 loomed
-looney
 loonie
 looped
 looted
@@ -7679,7 +7567,6 @@ lurdan
 luring
 luteal
 lutein
-luteum
 luting
 luxate
 luxury
@@ -7774,7 +7661,6 @@ matzah
 matzoh
 matzot
 mauled
-maumet
 mawing
 maxima
 maxing
@@ -7803,7 +7689,6 @@ medico
 medina
 medium
 medley
-meetly
 meetup
 megilp
 mehndi
@@ -7957,7 +7842,6 @@ mugged
 muggee
 mughal
 mukluk
-muleta
 muling
 mullah
 mulled
@@ -7983,11 +7867,8 @@ muting
 mutiny
 mutton
 mutual
-mutuel
-mutule
 muumuu
 muzzle
-mycele
 myelin
 myopic
 myotic
@@ -8030,7 +7911,6 @@ neocon
 nephew
 netted
 nettle
-nettly
 neumic
 nevoid
 newbie
@@ -8117,10 +7997,7 @@ nuking
 nullah
 numbat
 numbed
-nuncio
-nuncle
 nutate
-nutlet
 nutmeg
 nutria
 nutted
@@ -8173,7 +8050,6 @@ onload
 onward
 oocyte
 oogamy
-oogeny
 oohing
 oolite
 oolith
@@ -8298,7 +8174,6 @@ papule
 papyri
 paramo
 parang
-paraph
 pardah
 pardon
 pariah
@@ -8402,7 +8277,6 @@ phonal
 phoned
 phoney
 phonic
-phonon
 phooey
 photic
 photog
@@ -8687,7 +8561,6 @@ rancid
 rancor
 random
 rankly
-raphia
 raping
 rapini
 raptly
@@ -8862,8 +8735,6 @@ teemed
 teepee
 teethe
 teflon
-telnet
-telome
 temped
 tempeh
 temple
@@ -9033,7 +8904,6 @@ truant
 truing
 trying
 tryout
-tubate
 tubbed
 tubful
 tubing
@@ -9347,14 +9217,12 @@ wallop
 wallow
 wamble
 wampum
-wandle
 wangan
 wangle
 wangun
 waning
 wanion
 wanked
-wanned
 wanted
 wanton
 wapiti
@@ -9367,7 +9235,6 @@ waucht
 wauked
 wauled
 waving
-wawled
 waylay
 weaken
 wealth
@@ -9378,12 +9245,10 @@ webbed
 webfed
 weblog
 wedded
-wedeln
 wedged
 wedgie
 weeded
 weekly
-weened
 weenie
 weepie
 weeted
@@ -9435,7 +9300,6 @@ wikiup
 wilded
 wildly
 wilful
-wilily
 wiling
 willed
 willet
@@ -9456,10 +9320,8 @@ winked
 winkle
 winned
 winnow
-wintle
 wintry
 wiping
-wirily
 wiring
 witchy
 withal
@@ -9470,20 +9332,17 @@ witted
 wittol
 wiving
 wizard
-woaded
 wobble
 wobbly
 woeful
 wolfed
 wombed
-wonned
 wonted
 wonton
 wooded
 wooden
 woofed
 wooing
-wooled
 woolen
 woolie
 woolly
@@ -9513,9 +9372,7 @@ yarrow
 yaupon
 yawing
 yawled
-yclept
 yeaned
-yeelin
 yelled
 yellow
 yelped
@@ -9596,7 +9453,6 @@ aboding
 abought
 aboulia
 abroach
-abubble
 abutted
 academe
 academy
@@ -9683,7 +9539,6 @@ agitate
 agnized
 agnomen
 agonize
-agrapha
 agravic
 aground
 ailment
@@ -9745,7 +9600,6 @@ allowed
 alloxan
 alloyed
 alluded
-alluvia
 allying
 allylic
 almanac
@@ -9828,7 +9682,6 @@ angling
 angrily
 anguine
 angular
-anhinga
 anility
 animacy
 animate
@@ -9878,7 +9731,6 @@ apanage
 apatite
 apelike
 apetaly
-aphagia
 aphelia
 aphetic
 aphonia
@@ -10013,7 +9865,6 @@ balking
 ballade
 balling
 balloon
-ballute
 balmily
 baloney
 bambini
@@ -10060,7 +9911,6 @@ bathmat
 bathtub
 bathyal
 batlike
-batteau
 batting
 battled
 batwing
@@ -10260,7 +10110,6 @@ blazing
 bleakly
 bleated
 bleeped
-blellum
 blended
 blighty
 blinded
@@ -10430,7 +10279,6 @@ bugging
 bugling
 builded
 buirdly
-bulblet
 bulghur
 bulging
 bulimia
@@ -10438,8 +10286,6 @@ bulimic
 bulkage
 bulking
 bullace
-bullate
-bullbat
 bulldog
 bullied
 bulling
@@ -10804,7 +10650,6 @@ chugged
 chummed
 chumped
 chunked
-chunnel
 chuppah
 churchy
 chuting
@@ -11511,7 +11356,6 @@ doughty
 dovecot
 dowable
 dowdily
-doweled
 downbow
 downing
 doyenne
@@ -11699,7 +11543,6 @@ enlaced
 enliven
 ennoble
 ennuyee
-enology
 entente
 enticed
 entitle
@@ -11934,7 +11777,6 @@ figural
 figwort
 filaria
 filched
-filemot
 fileted
 filiate
 filibeg
@@ -12482,7 +12324,6 @@ hafting
 hagborn
 haggada
 haggard
-hagging
 haggled
 hahnium
 hailing
@@ -12531,13 +12372,11 @@ haplite
 haploid
 haplont
 happily
-happing
 haptene
 hardhat
 hardily
 hardpan
 hardtop
-hariana
 haricot
 harking
 harmful
@@ -12646,7 +12485,6 @@ hinting
 hipbone
 hiplike
 hipline
-hipping
 hitched
 hitting
 hoarily
@@ -12789,7 +12627,6 @@ illicit
 illogic
 illuded
 illumed
-illuvia
 imagine
 imaging
 imbibed
@@ -13135,7 +12972,6 @@ lampoon
 lanated
 lancing
 landing
-langley
 languet
 languid
 languor
@@ -13352,11 +13188,9 @@ lowbrow
 lowdown
 lowland
 lowlife
-lowlily
 loyally
 loyalty
 lozenge
-lucence
 lucency
 lucidly
 luckily
@@ -13540,7 +13374,6 @@ melange
 melanic
 melanin
 melding
-melilot
 melling
 melodia
 melodic
@@ -13601,7 +13434,6 @@ milkman
 milkmen
 millage
 milldam
-milline
 milling
 million
 millrun
@@ -13652,7 +13484,6 @@ modemed
 modicum
 modioli
 modular
-mofette
 mogging
 moguled
 mohalim
@@ -13817,7 +13648,6 @@ nelumbo
 nematic
 neogene
 neolith
-neology
 neonate
 nepotic
 netizen
@@ -13883,14 +13713,12 @@ nonfarm
 nonfood
 nonfuel
 nongame
-nonheme
 nonjury
 nonmeat
 nonpaid
 nonplay
 nonpoor
 nonwage
-nonwool
 nonword
 nonwork
 noodged
@@ -14215,7 +14043,6 @@ papadam
 papadom
 papadum
 papally
-paphian
 papilla
 paprika
 papulae
@@ -14879,7 +14706,6 @@ tainted
 takable
 takeoff
 takeout
-talaria
 talcing
 talcked
 taliped
@@ -14961,7 +14787,6 @@ teethed
 telamon
 telecom
 teleman
-telemen
 telexed
 telling
 telomic
@@ -15053,7 +14878,6 @@ tilting
 timbale
 timbral
 timidly
-timolol
 timothy
 timpana
 timpani
@@ -15112,7 +14936,6 @@ tombing
 tombola
 tombolo
 tomenta
-tomfool
 tomming
 tompion
 tonally
@@ -15654,7 +15477,6 @@ weaving
 webbing
 weblike
 wedding
-wedeled
 wedging
 wedlock
 weedily
@@ -15775,7 +15597,6 @@ woodman
 woodmen
 woodwax
 woofing
-woolled
 woolman
 woolmen
 woorali
@@ -16022,7 +15843,6 @@ agminate
 agnation
 agnizing
 agnomina
-agraphia
 agraphic
 agrarian
 agrology
@@ -16079,7 +15899,6 @@ allowing
 alloying
 alluding
 alluring
-alluvial
 alluvion
 alogical
 alopecia
@@ -16628,8 +16447,6 @@ blowtube
 blowzily
 blubbing
 bludging
-blueball
-bluebeat
 bluebell
 bluebill
 bluegill
@@ -17439,7 +17256,6 @@ dandriff
 dandruff
 danegeld
 danegelt
-daneweed
 dangling
 dappling
 darkroom
@@ -17585,7 +17401,6 @@ devoiced
 devolved
 devonian
 devotion
-dewooled
 dezinced
 diabetic
 diabolic
@@ -17710,11 +17525,9 @@ doupioni
 dovecote
 dovelike
 dovening
-dowelled
 downcome
 downfall
 downhill
-downland
 downlink
 download
 downpour
@@ -18874,9 +18687,7 @@ illiquid
 illuding
 illumine
 illuming
-illuvial
 illuvium
-ilmenite
 imaginal
 imagined
 imbalmed
@@ -18893,7 +18704,6 @@ immixing
 immobile
 immolate
 immortal
-immotile
 immunity
 immunize
 immuring
@@ -19158,7 +18968,6 @@ kymogram
 labdanum
 labeling
 labelled
-labellum
 labially
 labiated
 lability
@@ -19451,7 +19260,6 @@ malaprop
 malarial
 malarian
 malemiut
-malemute
 malignly
 malleoli
 mamaliga
@@ -19537,8 +19345,6 @@ melanian
 melanite
 melanize
 melanoma
-melilite
-melinite
 mellific
 mellowed
 mellowly
@@ -19632,7 +19438,6 @@ mobocrat
 modelled
 modeming
 modified
-moffette
 molality
 moldable
 molecule
@@ -20786,7 +20591,6 @@ tefillin
 tegmenta
 tegument
 tektitic
-telefilm
 telegony
 telepath
 teleplay
@@ -20999,9 +20803,7 @@ trunkful
 trunnion
 truthful
 tryingly
-tubbable
 tubelike
-tubulate
 tullibee
 tumefied
 tumidity
@@ -21057,7 +20859,6 @@ ultrahot
 ultralow
 ululated
 umbelled
-umbellet
 umbilici
 umlauted
 umpiring
@@ -21600,7 +21401,6 @@ woodworm
 wooingly
 woolfell
 woollike
-woollily
 woolpack
 woolwork
 wordbook
@@ -23271,7 +23071,6 @@ hallooing
 halophile
 halothane
 handwheel
-hangaring
 haphazard
 haphtarah
 haplology
@@ -23859,7 +23658,6 @@ militated
 millennia
 millepede
 milligram
-millimole
 millionth
 millipede
 millivolt
@@ -24487,7 +24285,6 @@ ruthfully
 tableland
 tablemate
 tabletted
-tabulable
 tabularly
 tabulated
 tabulator
@@ -24650,8 +24447,6 @@ uglifying
 ultimatum
 ululating
 ululation
-umbellate
-umbellule
 umbilical
 umpteenth
 unabating
@@ -25039,7 +24834,6 @@ analytical
 analyzable
 anarchical
 anathemata
-angelology
 angiogenic
 angulating
 animalcula
