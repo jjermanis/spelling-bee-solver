@@ -3,8 +3,7 @@
 internal class WordFinder
 {
     // TODO: most of this class is dictionary cleanup. Separate into new class?
-    // TODO: only create the update file if anything has changed
-    // TODO: profile performance. Start up takes ~2 seconds now.
+    // TODO: profile performance. Start up takes about 1 second.
 
     private enum WordStatus
     {
@@ -16,19 +15,21 @@ internal class WordFinder
         Valid
     }
 
-    private const string VALID_WORDS_PATH = @"..\..\..\words.txt";
+    private const string WORDS_PATH = @"..\..\..\words.txt";
     private const string UPDATE_WORDS_PATH = @"..\..\..\update.txt";
     private const string INVALID_WORDS_PATH = @"..\..\..\invalid.txt";
 
-    private readonly IEnumerable<string> _valid_words;
+    private readonly List<string> _words;
     private readonly HashSet<string> _invalid_words;
     private readonly HashSet<string> _all_pangrams;
+    private readonly HashSet<string> _used_pangrams;
 
     public WordFinder()
     {
-        _valid_words = File.ReadLines(VALID_WORDS_PATH);
+        _words = File.ReadLines(WORDS_PATH).ToList();
         _invalid_words = new HashSet<string>(File.ReadLines(INVALID_WORDS_PATH));
         _all_pangrams = AllPangrams();
+        _used_pangrams = new HashSet<string>();
     }
 
     public List<string> FindWords(char center, HashSet<char> letters)
@@ -36,7 +37,7 @@ internal class WordFinder
         var result = new List<string>();
         var allLetters = new HashSet<char>(letters);
         allLetters.Add(center);
-        foreach (var word in _valid_words)
+        foreach (var word in _words)
         {
             if (_invalid_words.Contains(word))
                 continue;
@@ -56,12 +57,14 @@ internal class WordFinder
 
     public void CreateSaneWordsFile()
     {
-        File.WriteAllLines(UPDATE_WORDS_PATH, ValidWords());
+        var validWords = ValidWords().ToList();
+        if (validWords.Count != _words.Count)
+            File.WriteAllLines(UPDATE_WORDS_PATH, ValidWords());
     }
 
     private IEnumerable<string> ValidWords()
     {
-        foreach (var word in _valid_words)
+        foreach (var word in _words)
             if (GetWordStatus(word) == WordStatus.Valid)
                 yield return word;
     }
@@ -94,7 +97,7 @@ internal class WordFinder
         var sCount = 0;
         var erCount = 0;
         var distinctLetterCount = 0;
-        foreach (var word in _valid_words)
+        foreach (var word in _words)
         {
             var status = GetWordStatus(word);
             switch (status)
@@ -121,32 +124,44 @@ internal class WordFinder
 
     public void CommonWords()
     {
-        foreach (var word in _valid_words)
+        foreach (var word in _words)
         {
             var distinct = new HashSet<char>();
             foreach (var c in word)
                 distinct.Add(c);
-            //if (distinct.Count <= 3)
-            //    Console.WriteLine(word);
-            if (distinct.Count <= 4 && word.Length >= 7)
+            /*
+            */
+            if (distinct.Count <= 3)
                 Console.WriteLine(word);
-            //if (distinct.Count <= 5 && word.Length >= 10)
-            //    Console.WriteLine(word);
+            /*
+            if (distinct.Count <= 4 && word.Length >= 8)
+                Console.WriteLine(word);
+            if (distinct.Count <= 5 && word.Length >= 10)
+                Console.WriteLine(word);
+            if (distinct.Count <= 6 && word.Length >= 12)
+                Console.WriteLine(word);
+            */
         }
     }
 
     public void InvalidWordsCheck()
     {
-        foreach (var word in _valid_words)
+        foreach (var word in _words)
             if (GetWordStatus(word) != WordStatus.Valid)
                 Console.WriteLine(word);
     }
 
     private bool IsInPangram(string word)
     {
+        if (_all_pangrams.Contains(word))
+            return true;
+
         foreach (var pangram in _all_pangrams)
             if (IsWordInPangram(word, pangram))
+            {
+                _used_pangrams.Add(pangram);
                 return true;
+            }
         return false;
     }
 
@@ -161,7 +176,7 @@ internal class WordFinder
     private HashSet<string> AllPangrams()
     {
         var result = new HashSet<string>();
-        foreach (var word in _valid_words)
+        foreach (var word in _words)
         {
             var currLetters = new HashSet<char>();
             foreach (var c in word)
