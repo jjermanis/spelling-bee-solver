@@ -210,8 +210,12 @@ cami
 camo
 camp
 cane
+cane
+cane
 cant
 cape
+capo
+carb
 card
 carp
 cart
@@ -470,7 +474,6 @@ farm
 fart
 fate
 faun
-faut
 faux
 fawn
 faze
@@ -1339,6 +1342,7 @@ taro
 tarp
 tart
 taut
+taxa
 taxi
 teak
 teal
@@ -1481,7 +1485,6 @@ wake
 wale
 walk
 wall
-walt
 wand
 wane
 want
@@ -1635,9 +1638,6 @@ adopt
 adorn
 adoze
 adult
-adunc
-adyta
-adzed
 affix
 afoot
 afoul
@@ -1772,7 +1772,6 @@ axial
 axile
 axing
 axiom
-axite
 axled
 axman
 axmen
@@ -1895,7 +1894,6 @@ bleed
 bleep
 blend
 blimp
-blimy
 blind
 bling
 blini
@@ -1971,12 +1969,8 @@ brick
 bring
 brink
 briny
-brith
-britt
 broad
-brock
 broil
-bromo
 bronc
 brood
 brook
@@ -2064,7 +2058,6 @@ capiz
 capon
 caput
 carat
-carbo
 cargo
 carny
 carob
@@ -2273,9 +2266,7 @@ cuddy
 cuing
 culet
 culex
-cully
 culpa
-culti
 cumin
 cupid
 cuppa
@@ -2321,11 +2312,8 @@ deify
 deign
 deity
 deked
-dekko
 delay
-deled
 delft
-delly
 delta
 delve
 demit
@@ -2338,7 +2326,6 @@ detox
 deuce
 devil
 dewax
-dexie
 dhobi
 dhoti
 dhuti
@@ -2369,7 +2356,6 @@ divan
 dived
 divot
 divvy
-dixit
 dizen
 dizzy
 djinn
@@ -2409,7 +2395,6 @@ dowie
 downy
 dowry
 doxed
-doxie
 doyen
 dozed
 dozen
@@ -2602,7 +2587,6 @@ firth
 fitch
 fitly
 fixed
-fixit
 fizzy
 fjeld
 fjord
@@ -2861,7 +2845,6 @@ gyved
 habit
 hairy
 halal
-halon
 halva
 halve
 hammy
@@ -2870,6 +2853,7 @@ handy
 hanky
 hapax
 happy
+haram
 hardy
 harpy
 harry
@@ -2918,7 +2902,6 @@ hoagy
 hoard
 hoary
 hobby
-hodad
 hogan
 hoked
 hokku
@@ -2929,10 +2912,8 @@ holly
 homed
 homey
 homie
-honda
 honed
 honey
-hongi
 honky
 honor
 hooch
@@ -3002,7 +2983,6 @@ ingot
 inked
 inlay
 inlet
-inned
 innie
 input
 intel
@@ -3122,10 +3102,8 @@ kooky
 kopek
 koppa
 korai
-korat
 korma
 korun
-kotow
 kraft
 krait
 kraut
@@ -3148,8 +3126,6 @@ laden
 ladle
 laggy
 laity
-laked
-lamby
 lamed
 lanai
 lance
@@ -3203,7 +3179,6 @@ liken
 lilac
 liman
 limbo
-limby
 limed
 limit
 lined
@@ -3257,7 +3232,6 @@ loyal
 lubed
 lucid
 lucky
-luffa
 luged
 lumen
 lumpy
@@ -3416,7 +3390,6 @@ muggy
 muhly
 mulch
 mulct
-muled
 muley
 mummy
 munch
@@ -3452,7 +3425,6 @@ netty
 newel
 newly
 niche
-nided
 niece
 nifty
 night
@@ -3554,7 +3526,6 @@ owlet
 owned
 oxeye
 oxide
-oxime
 oxlip
 ozone
 paced
@@ -3892,8 +3863,6 @@ telic
 tempi
 tempo
 tempt
-tench
-tendu
 tenet
 tenon
 tenth
@@ -4456,7 +4425,6 @@ amount
 amping
 ampule
 amulet
-amylic
 amylum
 anadem
 anally
@@ -4478,9 +4446,7 @@ annual
 annuli
 anodal
 anoint
-anomic
 anomie
-anopia
 anorak
 anoxic
 anthem
@@ -4600,7 +4566,6 @@ bagged
 baggie
 bagman
 bagmen
-bagnio
 bagwig
 bailed
 bailee
@@ -4622,10 +4587,8 @@ bammed
 banana
 banded
 bandit
-bandog
 banged
 bangle
-baning
 banjax
 banked
 bankit
@@ -4751,7 +4714,6 @@ bifold
 biform
 bigeye
 biggie
-biggin
 bigwig
 biking
 bikini
@@ -5098,7 +5060,6 @@ chided
 chigoe
 childe
 chilly
-chimar
 chimed
 chimla
 chined
@@ -5185,7 +5146,6 @@ coaxed
 cobalt
 cobble
 cobweb
-cocain
 coccyx
 cochin
 cocked
@@ -5378,9 +5338,7 @@ daddle
 dadgum
 daedal
 daemon
-daffed
 daggle
-dagoba
 dahlia
 daikon
 daimen
@@ -5547,8 +5505,6 @@ dinked
 dinkly
 dinted
 dioecy
-dioxid
-dioxin
 diploe
 dipnet
 dipody
@@ -5565,8 +5521,6 @@ djebel
 djinni
 doable
 doated
-dobbin
-doblon
 docent
 docile
 docked
@@ -5587,9 +5541,7 @@ dolled
 dollop
 dolman
 dolmen
-dolour
 domain
-domine
 doming
 domino
 donate
@@ -5725,7 +5677,6 @@ emboli
 emboly
 emceed
 emetic
-emodin
 emoted
 employ
 enable
@@ -5752,7 +5703,6 @@ enjoin
 enlace
 enmity
 ennead
-ennuye
 enough
 entail
 entice
@@ -5802,9 +5752,7 @@ exeunt
 exhale
 exhume
 exiled
-exilic
 exited
-exodoi
 exogen
 exonym
 exotic
@@ -6018,10 +5966,8 @@ footle
 fopped
 forbad
 forbid
-fordid
 forgat
 forgot
-forint
 formal
 format
 formic
@@ -6074,7 +6020,6 @@ fuzing
 fuzzed
 gabbed
 gabble
-gabion
 gabled
 gadded
 gadget
@@ -6150,10 +6095,8 @@ gently
 geodic
 geotag
 gewgaw
-gharry
 ghetto
 giaour
-gibbet
 gibbon
 gibing
 giblet
@@ -6561,7 +6504,6 @@ inched
 incite
 income
 incubi
-incult
 indeed
 indent
 indica
@@ -6606,7 +6548,6 @@ intent
 intone
 intown
 intuit
-inturn
 invade
 invent
 invite
@@ -6614,9 +6555,9 @@ invoke
 inward
 inwrap
 iodate
+iodide
 iodine
 iodize
-iolite
 ionize
 ipecac
 irking
@@ -6787,7 +6728,6 @@ labile
 labium
 labour
 labrum
-lacily
 lacing
 lacked
 lackey
@@ -6825,9 +6765,7 @@ langur
 lankly
 lanugo
 lapdog
-lapful
 lapped
-lappet
 laptop
 lardon
 lariat
@@ -6935,7 +6873,6 @@ linkup
 linnet
 linted
 lintel
-lintol
 lipide
 lipoid
 lipoma
@@ -7016,10 +6953,8 @@ lumbar
 lumina
 lummox
 lumped
-lumpen
 lunacy
 lunate
-lungan
 lunged
 lungee
 lungyi
@@ -7081,7 +7016,6 @@ mangey
 mangle
 maniac
 manila
-manioc
 manitu
 manned
 manque
@@ -7105,6 +7039,7 @@ maroon
 marrow
 martin
 martyr
+matcha
 mating
 matron
 matted
@@ -7145,7 +7080,6 @@ meikle
 melded
 mellow
 melody
-meloid
 melted
 melton
 meming
@@ -7168,7 +7102,6 @@ mickle
 micron
 midair
 midday
-midden
 middle
 midget
 midleg
@@ -7280,7 +7213,6 @@ mukluk
 muling
 mullah
 mulled
-mullen
 mullet
 mulley
 mumble
@@ -7309,9 +7241,7 @@ myriad
 myrica
 mythic
 mythoi
-myxoma
 nabbed
-naffed
 nagged
 nailed
 namely
@@ -7363,10 +7293,8 @@ nighty
 nilgau
 nilled
 nimble
-nimmed
 nimrod
 ninety
-niobic
 nipped
 nipple
 nitric
@@ -7381,7 +7309,6 @@ nogged
 noggin
 nonart
 noncom
-nonfan
 nonfat
 noodge
 noodle
@@ -7571,9 +7498,7 @@ panama
 pandit
 panful
 panged
-pangen
 panini
-panino
 panned
 panted
 pantie
@@ -7763,8 +7688,6 @@ pledge
 pleiad
 plench
 plenty
-plenum
-plexal
 pliant
 plicae
 plight
@@ -8081,14 +8004,12 @@ tautly
 tawing
 taxied
 taxing
-taxite
 taxman
 taxmen
 teacup
 teamed
 teapot
 teapoy
-teated
 teazel
 teazle
 techie
@@ -8111,6 +8032,7 @@ tented
 teopan
 tetchy
 tewing
+texted
 thatch
 thawed
 thecal
@@ -8119,7 +8041,6 @@ thenal
 thence
 thieve
 thinly
-thiram
 thirty
 tholed
 thorax
@@ -8259,7 +8180,6 @@ tryout
 tubful
 tubing
 tubule
-tuchun
 tucked
 tucket
 tuffet
@@ -8284,7 +8204,6 @@ turbid
 turbit
 turbot
 turgid
-turion
 turnip
 turnup
 tutted
@@ -8487,7 +8406,6 @@ viking
 vilely
 vilify
 vinify
-vining
 violet
 violin
 virago
@@ -8767,7 +8685,6 @@ abiotic
 ablated
 ablator
 abluted
-aboding
 abought
 aboulia
 abroach
@@ -8907,7 +8824,6 @@ alloxan
 alloyed
 alluded
 allying
-allylic
 almanac
 almondy
 almonry
@@ -8937,7 +8853,6 @@ amiably
 amidine
 amidone
 ammonia
-ammonic
 amniote
 amoebae
 amoeban
@@ -9147,7 +9062,6 @@ ballade
 ballboy
 balling
 balloon
-balmily
 baloney
 bambino
 bamming
@@ -9168,6 +9082,7 @@ bannock
 banquet
 banteng
 baptize
+barback
 barbing
 barchan
 barding
@@ -9299,8 +9214,6 @@ bewitch
 bezzant
 bhangra
 biaxial
-bibbing
-bibcock
 bibelot
 bicolor
 bicycle
@@ -9312,7 +9225,6 @@ bifocal
 bigfeet
 bigfoot
 biggety
-bigging
 biggity
 bighead
 bighorn
@@ -9356,7 +9268,6 @@ biryani
 bitable
 bitched
 bitchen
-bitting
 bittock
 bitumen
 bivalve
@@ -9453,13 +9364,9 @@ bondage
 bonding
 bondman
 bondmen
-bonging
 boniato
 bonking
 bonnily
-bonnock
-boobing
-boobird
 boogied
 bookend
 booking
@@ -9655,7 +9562,6 @@ camphol
 camphor
 campily
 camping
-campion
 campong
 campout
 candela
@@ -9698,8 +9604,6 @@ carabin
 caramba
 caravan
 caraway
-carbarn
-carbora
 cardiac
 carding
 caribou
@@ -9888,7 +9792,6 @@ chunked
 chuppah
 churchy
 chuting
-chutnee
 chutney
 chutzpa
 chytrid
@@ -10123,7 +10026,6 @@ coranto
 corbina
 cordial
 cording
-cordoba
 corking
 cormoid
 corncob
@@ -10392,7 +10294,6 @@ demoing
 demonic
 demoted
 demount
-denimed
 denizen
 denning
 denoted
@@ -10402,12 +10303,10 @@ denting
 dentoid
 denuded
 denying
-deodand
 deontic
 depaint
 deplane
 deplete
-deplume
 deponed
 deputed
 detente
@@ -10493,7 +10392,6 @@ dirtbag
 dirtily
 ditched
 dithiol
-dittany
 dittoed
 diurnal
 divided
@@ -10524,8 +10422,6 @@ dolling
 dolphin
 domaine
 domical
-domicil
-dominie
 donated
 donning
 doodled
@@ -10729,7 +10625,6 @@ enjoyed
 enlaced
 enliven
 ennoble
-ennuyee
 entente
 enticed
 entitle
@@ -10973,7 +10868,6 @@ finally
 finance
 finback
 finding
-finfoot
 finking
 finlike
 finmark
@@ -10984,7 +10878,6 @@ fitchew
 fitting
 fixable
 fixated
-fixatif
 fixedly
 fizzing
 fizzled
@@ -11008,7 +10901,6 @@ flaring
 flatbed
 flatcap
 flatcar
-flatlet
 flatted
 flatten
 flaunty
@@ -11145,7 +11037,6 @@ friarly
 frizing
 frogman
 frontal
-fronton
 froward
 fubbing
 fuddled
@@ -11265,7 +11156,6 @@ geology
 getting
 gharial
 ghoulie
-gibbing
 giddily
 giddyap
 giddyup
@@ -11339,7 +11229,6 @@ gnawing
 gnocchi
 goading
 goateed
-gobbing
 gobbled
 goddamn
 godding
@@ -11759,7 +11648,6 @@ imbibed
 imblaze
 imbuing
 imitate
-immixed
 immoral
 impaint
 impaled
@@ -11779,7 +11667,6 @@ imputed
 inanely
 inanity
 inaptly
-inbeing
 inboard
 inbound
 inbuilt
@@ -12220,7 +12107,6 @@ lithify
 lithium
 lithoed
 lithoid
-litotic
 liturgy
 livable
 livened
@@ -12383,7 +12269,6 @@ manhunt
 manikin
 manilla
 manille
-manioca
 maniple
 manitou
 manlike
@@ -12520,7 +12405,6 @@ milling
 million
 millrun
 milting
-mimeoed
 mimetic
 mimical
 mimicry
@@ -12729,7 +12613,6 @@ netlike
 netting
 nettled
 newmown
-nibbing
 nibbled
 niblick
 niblike
@@ -12754,7 +12637,6 @@ nipping
 nippled
 nirvana
 nitchie
-nitinol
 nitpick
 nitrify
 nobbily
@@ -12992,7 +12874,6 @@ outtalk
 outtold
 outvied
 outvote
-outwalk
 outward
 outweep
 outwent
@@ -13359,9 +13240,7 @@ plumbum
 pluming
 plummet
 plumped
-plumpen
 plumply
-plumule
 plunged
 plunked
 pluvial
@@ -14902,12 +14781,10 @@ amending
 amicable
 amicably
 ammocete
-ammoniac
 ammonify
 ammonite
 ammonium
 ammonoid
-amnionic
 amniotic
 amoebean
 amoeboid
@@ -15197,6 +15074,7 @@ bankcard
 banknote
 bankroll
 bantling
+barbacoa
 barbaric
 barbican
 barbital
@@ -15250,7 +15128,6 @@ beechnut
 beefcake
 beefwood
 beelined
-beetling
 befallen
 befitted
 befleaed
@@ -15324,7 +15201,6 @@ biennium
 bigaroon
 bigeminy
 bighting
-bignonia
 bikinied
 bilabial
 billable
@@ -15375,13 +15251,11 @@ blackfly
 blackleg
 blagging
 blamable
-blamably
 blameful
 blanking
 blatancy
 blatting
 bleached
-blebbing
 bleeding
 bleeping
 blenched
@@ -15844,7 +15718,6 @@ claimant
 claiming
 clambake
 clamlike
-clammily
 clamming
 clamworm
 clanging
@@ -16034,7 +15907,6 @@ contagia
 contempt
 continua
 continue
-continuo
 contract
 contrary
 convened
@@ -16069,7 +15941,6 @@ corrival
 cortical
 corundum
 cotenant
-cotillon
 cottagey
 cottoned
 cotyloid
@@ -16300,7 +16171,6 @@ depilate
 deplaned
 depleted
 deployed
-deplumed
 deponent
 deponing
 deputize
@@ -16367,7 +16237,6 @@ dilatate
 dilating
 dilation
 dilative
-dilemmic
 diligent
 diluting
 dilution
@@ -16608,7 +16477,6 @@ encyclic
 endamage
 endameba
 endemial
-endexine
 enditing
 endogeny
 endowing
@@ -17852,7 +17720,6 @@ kymogram
 labdanum
 labeling
 labelled
-labially
 labiated
 lability
 labrador
@@ -17871,7 +17738,6 @@ ladybird
 ladylike
 ladylove
 lagnappe
-laically
 laicized
 laitance
 lallygag
@@ -17950,7 +17816,6 @@ leucitic
 leukemia
 leukemic
 levanted
-leveeing
 leveling
 leviable
 levigate
@@ -18301,7 +18166,6 @@ mnemonic
 mobility
 mobilize
 mobocrat
-modelled
 modeming
 modified
 molality
@@ -18545,7 +18409,6 @@ nonlocal
 nonlyric
 nonmetal
 nonmodal
-nonmoral
 nonnaval
 nonpagan
 nonparty
@@ -18582,7 +18445,6 @@ notebook
 noticing
 notified
 notional
-notturni
 noumenal
 noumenon
 nouvelle
@@ -18624,7 +18486,6 @@ occupant
 occupied
 oceanaut
 ocellate
-ocotillo
 octantal
 octarchy
 octonary
@@ -18654,7 +18515,6 @@ olivinic
 omelette
 omitting
 omniform
-omnimode
 omnivora
 omophagy
 oncogene
@@ -18907,7 +18767,6 @@ pentanol
 penuchle
 penuckle
 peopling
-peplumed
 peponida
 peponium
 peptidic
@@ -19330,7 +19189,6 @@ rollaway
 rollback
 rollicky
 roorbach
-roorback
 rootling
 rootworm
 rotating
@@ -19629,7 +19487,6 @@ truantry
 truckful
 trudging
 trunkful
-trunnion
 truthful
 tryingly
 tubelike
@@ -20375,7 +20232,6 @@ algaecide
 algarroba
 algarrobo
 algicidal
-alicyclic
 alienated
 alighting
 alimental
@@ -20670,7 +20526,6 @@ bedimming
 bedimpled
 bedizened
 beechwood
-beelining
 befitting
 beflagged
 beflecked
@@ -21202,7 +21057,6 @@ cranching
 cranially
 crinkling
 crippling
-crookback
 crucially
 cruciform
 crunching
@@ -21776,7 +21630,6 @@ geotactic
 getatable
 ghettoing
 ghettoize
-gibbeting
 gibbetted
 gigacycle
 gigantean
@@ -21972,7 +21825,6 @@ idiotical
 idiotypic
 idolizing
 ignifying
-ignitible
 iguanodon
 illegally
 illegible
@@ -22127,7 +21979,6 @@ intuiting
 intuition
 intuitive
 intwining
-inunction
 inundated
 inutilely
 inutility
@@ -22255,13 +22106,11 @@ lethality
 leucocyte
 leukaemia
 levantine
-levelling
 levitated
 lexically
 liability
 libecchio
 libellant
-libelling
 libidinal
 librarian
 libriform
@@ -22630,7 +22479,6 @@ nonmotile
 nonmoving
 nonmutual
 nonnative
-nonnormal
 nonorally
 nonpaying
 nonplanar
@@ -22920,7 +22768,6 @@ pleiocene
 plighting
 plumbable
 plummeted
-plumpened
 podzolize
 poenology
 poeticize
@@ -22993,7 +22840,6 @@ protozoic
 protozoon
 pullulate
 pulvillar
-pummelled
 punctuate
 punningly
 pupillage
@@ -23047,7 +22893,6 @@ tabletted
 tabularly
 tabulated
 tabulator
-tacamahac
 tachylyte
 tactfully
 tactician
@@ -24085,7 +23930,6 @@ garrotting
 geminating
 geological
 geologized
-gibbetting
 gillnetted
 gimballing
 glaciating
@@ -24446,7 +24290,6 @@ nonathlete
 nonbanking
 nonbetting
 nonbinding
-nonbonding
 noncaloric
 nonchalant
 noncitizen
@@ -24726,7 +24569,6 @@ unknitting
 unknotting
 unlawfully
 unleavened
-unleveling
 unmingling
 unmuffling
 unmuzzling
@@ -25136,7 +24978,6 @@ nonemployee
 nonevidence
 nonfamilial
 nongranular
-nonhormonal
 nonidentity
 noninitiate
 noninvolved
@@ -25251,7 +25092,6 @@ uninventive
 unitization
 unkenneling
 unkennelled
-unlevelling
 unnaturally
 unwillingly
 utilitarian
